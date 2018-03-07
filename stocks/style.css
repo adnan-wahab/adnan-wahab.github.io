@@ -1,0 +1,147 @@
+
+body, input, textarea {
+  font-family: Georgia, "Times New Roman", Serif;
+}
+
+
+svg {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#main p {
+  /* font-size: 30px; */
+  /* line-height: 50px; */
+}
+
+.dataTables_info {
+  display:none;
+}
+
+.table {
+  padding-bottom: 20px;
+}
+
+.sub {
+  font-family: sans-serif;
+  pointer-events: none;
+}
+
+.stock {
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #444;
+  clear:both;
+}
+
+.description {
+  padding-top: 20px;
+  color: #444;
+}
+
+.full_name {
+  color: #777;
+  font-size: 0.8em;
+}
+
+.section {
+  float:left;
+  padding-right: 20px;
+}
+
+#controls {
+  width: 100%;
+  float: left;
+  margin-bottom: 10px;
+}
+
+.control {
+  float: left;
+  padding-left: 20px;
+}
+
+.control a {
+  color: black;
+  font-size: 12px;
+  padding: 5px;
+  background: #E2E2E2;
+  cursor: pointer;
+  margin-right: 3px;
+  text-decoration: none;
+}
+
+.control a.active {
+  color: white;
+  background: #555;
+}
+
+#correlation_table {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#correlation_table th {
+  text-align: center;
+}
+
+#correlation_table td {
+  text-align: center;
+  vertical-align: middle;
+  /* width: 20px; */
+  /* height: 20px; */
+  padding: 5px;
+}
+
+#correlation_table td.active {
+  color: red;
+}
+
+#small_mults h3 {
+  padding-top:10px;
+  padding-bottom: 2px;
+  margin-top: 8px;
+  margin-bottom:5px;
+  color: #777;
+}
+
+#smalls {
+  /* position:relative; */
+}
+.smalls svg {
+  /* float:left; */
+}
+
+.smalls .area {
+  fill: #cec6b9;
+}
+
+.small_mult.highlight .area {
+  fill: rgb(92, 0, 51);
+}
+
+
+.small_mult.highlight .line{
+  stroke: rgb(92, 0, 51);
+}
+
+.smalls .line {
+  fill: none;
+  stroke: #74736c;
+  stroke-width: 2px;
+}
+
+.smalls text {
+  pointer-events: none;
+}
+
+.axis {
+  shape-rendering: crispEdges;
+}
+
+.y.axis line, .y.axis path {
+  fill: none;
+  stroke: #000;
+}
+
+.smalls .tick text {
+  font-size: 10px;
+}
+

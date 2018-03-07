@@ -1,0 +1,922 @@
+{
+  "WFC": {
+    "id": "WFC",
+    "name": "Wells Fargo & Co  ",
+    "desc": "Wells Fargo & Company is a bank holding company. The Company is a diversified financial services company. It has three operating segments: Community Banking, Wholesale Banking and Wealth, and Brokerage and Retirement. The Company provides other financial services through subsidiaries engaged in various businesses, principally wholesale banking, mortgage banking, consumer finance, equipment leasing, agricultural finance, commercial finance, securities brokerage and investment banking, insurance agency and brokerage services, computer and data processing services, trust services, investment advisory services, mortgage-backed securities servicing and venture capital investment. In May 2014, the Company announced that it has completed the sale of 40 of primarily smaller regional insurance brokerage and consulting locations."
+  },
+  "CVX": {
+    "id": "CVX",
+    "name": "Chevron Corporation  ",
+    "desc": "Chevron Corporation (Chevron) manages its investments in subsidiaries and affiliates and provides administrative, financial, management and technology support to the United States and international subsidiaries that engage in fully integrated petroleum operations, chemicals operations, mining activities, power generation and energy services. Upstream operations consist primarily of exploring for, developing and producing crude oil and natural gas; processing, transportation and regasification associated with liquefied natural gas; transporting crude oil by international oil export pipelines; transporting, storage and marketing of natural gas, and a gas-to-liquids project. Downstream operations consist primarily of refining crude oil into petroleum products; transporting crude oil and refined products by pipeline, marine vessel, motor equipment and rail car, and manufacturing and marketing of commodity petrochemicals, plastics for industrial uses and fuel and lubricant additives."
+  },
+  "JNJ": {
+    "id": "JNJ",
+    "name": "Johnson & Johnson  ",
+    "desc": "Johnson & Johnson is a holding company. The Company is engaged in the research and development, manufacture and sale of a broad range of products in the health care field. The business of Johnson & Johnson is conducted by more than 275 operating companies located in 60 countries, including the United States, which sell products in virtually all countries throughout the world. In March 2013, Johnson & Johnson's Cordis Corporation announced the acquisition of Flexible Stenting Solutions, Inc. In June 2013, Johnson & Johnson announced the opening of the Johnson & Johnson Innovation center in Boston. In July 2014, Johnson & Johnson completed the divestiture of Ortho-Clinical Diagnostics business to Carlyle Group."
+  },
+  "XOM": {
+    "id": "XOM",
+    "name": "Exxon Mobil Corporation  ",
+    "desc": "Exxon Mobil Corporation is a manufacturer and marketer of commodity petrochemicals, including olefins, aromatics, polyethylene and polypropylene plastics and a range of specialty products. The Company has a number of divisions and affiliates with names that include ExxonMobil, Exxon, Esso or Mobil. Divisions and affiliated companies of the Company operate or market products in the United States and other countries of the world. Their principal business is energy, involving exploration for, and production of, crude oil and natural gas, manufacture of petroleum products and transportation and sale of crude oil, natural gas and petroleum products. In January 2012, Apache Corporation acquired its Mobil North Sea Limited assets, including the Beryl field and related properties. In April 2013, BNK Petroleum (US) Inc. sold Tishomingo Field, Oklahoma assets other than the Caney and upper Sycamore formations to XTO Energy Inc., a subsidiary of Exxon Mobil Corporation."
+  },
+  "AMGN": {
+    "id": "AMGN",
+    "name": "Amgen, Inc.  ",
+    "desc": "Amgen Inc. is a global biotechnology pioneer that discovers, develops, manufactures and delivers human therapeutics. Its medicines help millions of patients in the fight against cancer, kidney disease, rheumatoid arthritis (RA), bone disease, and other serious illnesses. On December 10, 2012, the Company acquired all of the outstanding stock of deCODE Genetics (deCODE). In July 5, 2012, the Company acquired KAI Pharmaceuticals, a privately held company based in South San Francisco. In September 2013, Swedish Orphan Biovitrum AB (publ) (Sobi) announced that they have acquired the full rights to develop and commercialize Kineret (anakinra) from Amgen Inc for all therapeutic indications."
+  },
+  "PCLN": {
+    "id": "PCLN",
+    "name": "Priceline Group Inc  ",
+    "desc": "Priceline Group Inc, formerly Priceline Com Incorporated, is an online travel company that offers its customers hotel room reservations at over 295,000 hotels worldwide through the Booking.com, priceline.com and Agoda brands. In the United States, the Company also offers its customers reservations for car rentals, airline tickets, vacation packages, destination services and cruises through the priceline.com brand. It offers car rental reservations worldwide through rentalcars.com. On May 2013, the Company acquired Kayak Software Corp. In June 2014, Priceline Group Inc acquired buuteeq, Inc. Effective July 24, 2014, Priceline Group Inc (Priceline) acquired OpenTable Inc (OpenTable)."
+  },
+  "MSFT": {
+    "id": "MSFT",
+    "name": "Microsoft Corporation  ",
+    "desc": "Microsoft Corporation is engaged in developing, licensing and supporting a range of software products and services. The Company also designs and sells hardware, and delivers online advertising to the customers. The Company operates in five segments: Windows & Windows Live Division (Windows Division), Server and Tools, Online Services Division (OSD), Microsoft Business Division (MBD), and Entertainment and Devices Division (EDD). The Company's products include operating systems for personal computers (PCs), servers, phones, and other intelligent devices; server applications for distributed computing environments; productivity applications; business solution applications; desktop and server management tools; software development tools; video games, and online advertising. Effective July 11, 2014, Microsoft Corp acquired InMage Systems Inc."
+  },
+  "PEP": {
+    "id": "PEP",
+    "name": "PepsiCo, Inc.  ",
+    "desc": "PepsiCo, Inc. (PepsiCo) is a global food and beverage company. Through the Company's bottlers, contract manufacturers and other partners, the Company makes, markets, sells and distributes a range of foods and beverages in more than 200 countries and territories. PepsiCo is organized into four business units: PepsiCo Americas Foods (PAF), which includes Frito-Lay North America (FLNA), Quaker Foods North America (QFNA) and all of its Latin American food and snack businesses (LAF); PepsiCo Americas Beverages (PAB), which includes all of its North American and Latin American beverage businesses; PepsiCo Europe, which includes all beverage, food and snack businesses in Europe and South Africa, and PepsiCo Asia, Middle East and Africa (AMEA), which includes all beverage, food and snack businesses in AMEA, excluding South Africa. In February 2014, PepsiCo Inc acquired a 75.53% interest in Lebedyansky JSC."
+  },
+  "PG": {
+    "id": "PG",
+    "name": "The Procter & Gamble Company  ",
+    "desc": "The Procter & Gamble Company (P&G) is focused on providing consumer packaged goods. The Company's products are sold in more than 180 countries and territories worldwide primarily through mass merchandisers, grocery stores, membership club stores, drug stores, department stores, salons, e-commerce and high-frequency stores, and the neighborhood stores, which serve many consumers in developing markets. As of June 30, 2014, the Company had five reportable segments: Beauty; Grooming; Health Care; Fabric Care and Home Care, and Baby Care and Family Care. Sales to Wal-Mart Stores, Inc. and its affiliates represent approximately 14% of its total revenue during the fiscal year ended June 30, 2014 (fiscal 2014). In August 2014, Mars, Incorporated acquired IAMS, EUKANUBA and NATURA brands in North America, Latin America and other select countries from Procter & Gamble Company."
+  },
+  "AMZN": {
+    "id": "AMZN",
+    "name": "Amazon.com, Inc.  ",
+    "desc": "Amazon.com, Inc. (Amazon.com) serves consumers through its retail websites and focus on selection, price, and convenience. The Company offers programs that enables sellers to sell their products on its Websites and their own branded Websites and to fulfill orders through them , and programs that allow authors, musicians, filmmakers, application developers, and others to publish and sell content. The Company operates in two segments: North America and International. The Company serves consumers through its retail websites, and focus on selection, price, and convenience. The Company designs its Websites to enable millions of products to be sold by the Company and by third parties across dozens of product categories. Customers access its Websites directly and through its mobile Websites and apps. It also manufactures and sells Kindle devices. Effective February 5, 2014, Amazon.com Inc acquired Double Helix Games LLC. Effective May 6, 2014, the Company acquired Iconology Inc."
+  },
+  "LNKD": {
+    "id": "LNKD",
+    "name": "LinkedIn Corp  ",
+    "desc": "LinkedIn Corporation (LinkedIn), is a professional network on the Internet with approximately 277 million members in over 200 countries and territories. Its Free Solutions includes ability to manage professional identity, ability to build and engage with professional networks, access to knowledge, insights and opportunities and ubiquitous access. The Company generates revenue across three product lines: Talent Solutions, Marketing Solutions, and Premium Subscriptions. All three product lines are sold through two channels, an offline field sales organization, which engages with both large and small enterprise customers, as well as an online, self-serve channel where it generates revenue from both enterprise customers and individual members purchasing subscriptions. On February 28, 2014, it acquired the entire share capital of Bright Media Corporation (Bright). In July 2014, it acquired Newsle Inc. In August 2014, LinkedIn Corp. acquired Bizo, Inc."
+  },
+  "V": {
+    "id": "V",
+    "name": "Visa Inc  ",
+    "desc": "Visa Inc. (Visa) is a global payments technology company that connects consumers, businesses, financial institutions and governments in more than 200 countries and electronic payments. The Company operates in Payment Services. The Company operates processing networks VisaNet, which facilitates authorization, clearing and settlement of payment transactions worldwide. It also offers fraud protection for account holders and assured payment for merchants. The Company operates an open-loop payments network in which Visa connects and manages the exchange of information and values between: issuers, which includes financial institutions that issue Visa-branded cards or payment products to account holders, and acquirers, which includes financial institutions that contract with merchants to accept Visa-branded cards or payment products."
+  },
+  "FB": {
+    "id": "FB",
+    "name": "Facebook Inc  ",
+    "desc": "Facebook, Inc. (Facebook), is engaged in building products to create utility for users, developers, and advertisers. People use Facebook to stay connected with their friends and family, to discover what is going on in the world around them, and to share and express what matters to them to the people they care about. Developers can use the Facebook Platform to build applications and Websites that integrate with Facebook to reach its global network of users and to build personalized and social products. It offers advertisers a combination of reach, relevance, social context and engagement. Effective January 8, 2014, Facebook Inc acquired Little Eye Software Labs Pvt Ltd. Effective January 13, 2014, Facebook Inc acquired Branch Media Inc. In April 2014, Facebook Inc acquired ProtoGeo Oy, a Helsinki-based developer of software for smartphones. Effective July 21, 2014, Facebook Inc acquired Oculus VR Inc, an Irvine-based developer of virtual mobile gaming application software."
+  },
+  "CRM": {
+    "id": "CRM",
+    "name": "salesforce.com, inc.  ",
+    "desc": "salesforce.com, inc. is a provider of enterprise cloud computing and social enterprise solutions. The Company provides a customer and collaboration relationship management (CRM), applications through the Internet or cloud. Cloud computing refers to the use of Internet-based computing, storage and connectivity technology to deliver a variety of different services. The Company delivers its service through Internet browsers and mobile devices. It markets its social enterprise applications and platforms to businesses on a subscription basis, primarily through its direct sales efforts and indirectly through partners. In May 2013, salesForce.com Inc acquired Clipboard Inc. In July 2013, salesforce.com, Inc. completed its acquisition of ExactTarget Inc."
+  },
+  "MON": {
+    "id": "MON",
+    "name": "Monsanto Company  ",
+    "desc": "Monsanto Company (Monsanto) along with its subsidiaries, is a provider of agricultural products for farmers. The Company's seeds, biotechnology trait products, and herbicides provide farmers with solutions that improve productivity, reduce the costs of farming, and produce better foods for consumers and better feed for animals. It manages business in two segments: Seeds and Genomics, and Agricultural Productivity. In April 2010, the Company completed the acquisition of a corn and soybean processing plant located in Paine, Chile from Anasac, a company that provides seed processing services. In November 2013, the Company announced that it has completed the acquisition of The Climate Corporation."
+  },
+  "CELG": {
+    "id": "CELG",
+    "name": "Celgene Corporation  ",
+    "desc": "Celgene Corporation is a global biopharmaceutical company engaged in the discovery, development and commercialization of therapies designed to treat cancer and immune-inflammatory related diseases. It is engaged in the research and development, which is designed to bring new therapies to market, and is engaged in research in several scientific areas that may deliver therapies, focusing areas, such as intracellular signaling pathways in cancer and immune cells, immunomodulation in cancer and autoimmune diseases, and therapeutic application of cell therapies. Its primary commercial stage products include REVLIMID, VIDAZA, THALOMID, ABRAXANE and ISTODAX. Additional sources of revenue include a licensing agreement with Novartis, which entitles it to royalties on FOCALIN XR and the entire RITALIN family of drugs, the sale of services through its Cellular Therapeutics subsidiary and other miscellaneous licensing agreements. In March 2012, it acquired Avila Therapeutics."
+  },
+  "BIIB": {
+    "id": "BIIB",
+    "name": "Biogen Idec Inc  ",
+    "desc": "Biogen Idec Inc. (Biogen Idec) is a global biotechnology company. The Company discovers, develops, manufactures and markets therapies for the treatment of neurodegenerative diseases, hemophilia and autoimmune disorders. The Company's products include AVONEX, TYSABRI, FAMPYRA, FUMADERM and RITUXAN. In September 2011, the Company acquired from the Dompe Group the noncontrolling interests in its joint venture sales affiliates in Italy and Switzerland. In April 2013, Elan Corporation, plc closed the TYSABRI (natalizumab) Collaboration Transaction with Biogen Idec."
+  },
+  "TGT": {
+    "id": "TGT",
+    "name": "Target Corporation  ",
+    "desc": "Target Corporation sells a range of assortment of general merchandise and food in its stores. The Company's general merchandise and CityTarget stores offer a food assortment on a smaller scale and its SuperTarget stores offer a line of food items comparable to traditional supermarkets. The Company operates in three segments: U.S. Retail, U.S. Credit Card and Canadian. The Company's U.S. Retail Segment includes all of its United States merchandising operations. The Company's U.S. Credit Card Segment offers credit to qualified guests through its credit cards: the Target Credit Card and the Target Visa. Its Canadian Segment includes costs incurred in the United States and Canada related to its Canadian retail market entry. As of February 2, 2013, the Company had 1,778 stores in 49 states and the District of Columbia. It also owns three distribution centers in Canada, with a total of 3,963 thousand square feet."
+  },
+  "BMY": {
+    "id": "BMY",
+    "name": "Bristol-Myers Squibb Co  ",
+    "desc": "Bristol-Myers Squibb Company (BMS) is engaged in the discovery, development, licensing, manufacturing, marketing, distribution and sale of biopharmaceutical products on a global basis. It operates in BioPharmaceuticals. Its products are sold worldwide, primarily to wholesalers, retail pharmacies, hospitals, government entities and the medical profession. It manufactures products in the United States (U.S.), Puerto Rico and in 6 foreign countries. In April 2014, the Company acquired iPierian Inc."
+  },
+  "ILMN": {
+    "id": "ILMN",
+    "name": "Illumina, Inc.  ",
+    "desc": "Illumina, Inc. (Illumina) is a developer and manufacturer of life science tools and integrated systems for the analysis of genetic variation and function. The Company is organized in two business segments: Life Sciences and Diagnostics. Its Life Sciences business unit includes all products and services related to the research market, namely the product lines based on its sequencing, BeadArray, VeraCode, and real-time PCR technologies. Its Diagnostics business unit focuses on molecular diagnostics. Its customers include genomic research centers, academic institutions, government laboratories, and clinical research organizations, as well as pharmaceutical, biotechnology, agrigenomics, and consumer genomics companies. In July 2014, the Company acquired Myraqa, a regulatory and quality consulting firm specializing in IVDs, particularly companion diagnostics."
+  },
+  "DISCA": {
+    "id": "DISCA",
+    "name": "Discovery Communications Inc.  ",
+    "desc": "Discovery Communications, Inc. (Discovery) is a global nonfiction media and entertainment company that provide programming across multiple distribution platforms worldwide. Discovery operates in three segments: U.S. Networks, International Networks and Education and Other. The Company's U.S. Networks, consists principally of domestic cable and satellite television networks, Websites and other digital media services. Its International Networks consists primarily of international cable and satellite television networks and Websites. It's Education and other consists principally of curriculum-based education product and service offerings and postproduction audio services. In May 2014, the Company announced that it has completed acquisition of a controlling interest in Eurosport International, Europe's sports entertainment group."
+  },
+  "VOO": {
+    "id": "VOO",
+    "name": "Vanguard 500 Index Fund  ",
+    "desc": "Vanguard 500 Index Fund (the Fund) is an open-end investment company, or mutual fund. The Fund offers four classes of shares: Investor Shares, Admiral Shares, Signal Shares, and Exchange Traded Fund (ETF) Shares. The Fund seeks to track the investment performance of the Standard & Poor's 500 Index, an unmanaged benchmark representing the United States large-capitalization stocks. The Fund employs a passive management-or indexing-investment approach designed to track the performance of the Standard & Poor's 500 Index. The Fund attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index."
+  },
+  "CTSH": {
+    "id": "CTSH",
+    "name": "Cognizant Technology Solutions Corp  ",
+    "desc": "Cognizant Technology Solutions Corporation (Cognizant) is a provider of custom information technology, consulting and business process outsourcing services. The Company is engaged in Business, Process, Operations and Information Technology Consulting, Application Development and Systems Integration, Enterprise Information Management (EIM), Application Testing, Application Maintenance, Information Technology Infrastructure Services, and Business and Knowledge Process Outsourcing, or BPO and KPO. The Company operates in four segments: Financial Services; Healthcare; Manufacturing, Retail and Logistics, and Other, which includes communications, information, media and entertainment, and high technology. In October 2013, Cognizant Technology Solutions of India acquired Equinox Consulting SAS."
+  },
+  "TJX": {
+    "id": "TJX",
+    "name": "The TJX Companies, Inc.  ",
+    "desc": "The TJX Companies, Inc. (TJX) is the off-price apparel and home fashions retailer in the United States and worldwide. As of January 28, 2012, the Company operated in four business segments. It has two segments in the United States, Marmaxx (T.J. Maxx and Marshalls) and HomeGoods; one in Canada, TJX Canada (Winners, Marshalls and HomeSense) and one in Europe, TJX Europe (T.K. Maxx and HomeSense). As a result of the consolidation of the A.J. Wright chain, all A.J. Wright stores ceased operations by the end of February 2011. It completed the consolidation of A.J. Wright, converting 90 of the A.J. Wright stores to T.J. Maxx, Marshalls or HomeGoods banners and closed the remaining 72 stores, two distribution centers and home office. In December 2012, the Company acquired Sierra Trading Post, an off-price Internet retailer."
+  },
+  "VZ": {
+    "id": "VZ",
+    "name": "Verizon Communications Inc.  ",
+    "desc": "Verizon Communications Inc. (Verizon) is a holding company. The Company is a provider of communications, information and entertainment products and services to consumers, businesses and governmental agencies. It operates in two primary segments: Verizon Wireless and Wireline. Verizon Wireless' communications products and services include wireless voice and data services and equipment sales, which are provided to consumer, business and government customers across the United States. Wireline's communications products and services include voice, Internet access, broadband video and data, Internet protocol network services, network access, long distance and other services. Effective January 6, 2014, Verizon Communications Inc acquired EdgeCast Networks Inc. In February 2014, Verizon Communications Inc completed the acquisition of Vodafone Group Plc's 45% indirect interest in Verizon Wireless."
+  },
+  "ALXN": {
+    "id": "ALXN",
+    "name": "Alexion Pharmaceuticals, Inc.  ",
+    "desc": "Alexion Pharmaceuticals, Inc. (Alexion) is a biopharmaceutical company focused on serving patients with severe and ultra-rare disorders through the development and commercialization of life-transforming therapeutic products. Its marketed product Soliris (eculizumab) is the first and only therapeutic approved for patients with two ultra-rare and severe disorders resulting from chronic uncontrolled activation of the complement component of the immune system: paroxysmal nocturnal hemoglobinuria (PNH), an ultra-rare and life-threatening blood disorder, and atypical hemolytic uremic syndrome (aHUS), an ultra-rare and life-threatening genetic disease. On February 7, 2012, it acquired Enobia Pharma Corp. (Enobia). On February 8, 2011, it acquired patents and assets from Orphatec Pharmaceuticals GmbH (Orphatec). On January 28, 2011, it acquired Taligen Therapeutics, Inc. (Taligen). It acquired Asfotase alfa in February 2012."
+  },
+  "GILD": {
+    "id": "GILD",
+    "name": "Gilead Sciences, Inc.  ",
+    "desc": "Gilead Sciences, Inc. (Gilead) is a research-based biopharmaceutical company that discovers, develops and commercializes medicines. Gilead's primary areas of focus include human immunodeficiency virus (HIV)/AIDS, liver diseases, such as hepatitis B and C and cardiovascular/metabolic and respiratory conditions. The Company has operations in North America, Europe and Asia Pacific. The Company's products include Atripla, Truvada, Viread, Complera/Eviplera, Emtriva, Hepsera, Letairis, Ranexa, Lexiscan/Rapiscan, AmBisome, Vistide, Macugen, Cayston and Tamiflu. In January 2012, the Company acquired Pharmasset, Inc. On February 8, 2013, its subsidiary, acquired YM BioSciences Inc."
+  },
+  "VMW": {
+    "id": "VMW",
+    "name": "VMware, Inc.  ",
+    "desc": "VMware, Inc., is the provider of virtualization infrastructure solutions utilized by organizations to help transform the way they build, deliver and consume information technology (IT) resources. The Company's solutions enable organizations to aggregate multiple servers, storage infrastructure and networks together into shared pools of capacity that can be allocated dynamically, securely and reliably to applications as needed, increasing hardware utilization and reducing spending. Once created, these internal computing infrastructures, or clouds, can be dynamically linked by its customers to external computing resources that run on a VMware virtualization platform. In February 2014, VMware Inc completed the acquisition of AirWatch, the provider of enterprise mobile management and security solutions. In August 2014, VMware, Inc acquires CloudVolumes."
+  },
+  "USB": {
+    "id": "USB",
+    "name": "U.S. Bancorp  ",
+    "desc": "U.S. Bancorp (U.S. Bancorp) is a multi-state financial services holding company. U.S. Bancorp provides a range of financial services, including lending and depository services, cash management, foreign exchange and trust and investment management services. It also engages in credit card services, merchant and automated teller machine (ATM) processing, mortgage banking, insurance, brokerage and leasing. The Company operates in five segments: Wholesale Banking and Commercial Real Estate, Consumer and Small Business Banking, Wealth Management and Securities Services, Payment Services and Treasury and Corporate Support. U.S. Bancorp's banking subsidiaries are engaged in the general banking business, principally in domestic markets. In June 2014, the Company acquired Charter One's retail branch network, as well as small business operations and select middle market client relationships."
+  },
+  "PNC": {
+    "id": "PNC",
+    "name": "PNC Financial Services Group Inc  ",
+    "desc": "The PNC Financial Services Group, Inc. (PNC) is a financial service company. The Company has businesses engaged in retail banking, corporate and institutional banking, asset management, and residential mortgage banking, providing its products and services nationally and others in its markets located in Pennsylvania, Ohio, New Jersey, Michigan, Illinois, Maryland, Indiana, Kentucky, Florida, Washington, D.C., Delaware, Virginia, Missouri, Wisconsin and Georgia. It also provides certain products and services internationally. As of December 31, 2011, its corporate legal structure consisted of one domestic subsidiary bank, including its subsidiaries, and approximately 141 active non-bank subsidiaries. On March 2, 2012, it acquired RBC Bank (USA). Effective October 26, 2012, PNC divested certain deposits and assets of the Smartstreet business unit, which was acquired by PNC as part of the RBC Bank (USA) acquisition, to Union Bank, N.A."
+  },
+  "UMLGX": {
+    "id": "UMLGX",
+    "name": "Columbia Select Large Cap Growth Fund Class Z",
+    "desc": ""
+  },
+  "KORS": {
+    "id": "KORS",
+    "name": "Michael Kors Holdings Ltd  ",
+    "desc": "Michael Kors Holdings Limited is a global lifestyle brand . The Company designs, materials and craftsmanship with a jet-set aesthetic that combines stylish elegance and a sporty attitude. The Company is an American sportswear house to a global accessories, footwear and apparel company with a presence in over 85 countries. Its segments include retail, wholesale and licensing. It is focused on retail stores, department stores, specialty stores and select licensing partners. As of March 30, 2013, its retail segment included 231 North American retail stores, including concessions, and 73 international retail stores, including concessions, in Europe and Japan. As of March 30, 2013, its wholesale segment included wholesale sales through approximately 2,215 department store and specialty store doors in North America and wholesale sales through approximately 1,034 department store and specialty store doors internationally."
+  },
+  "VRTX": {
+    "id": "VRTX",
+    "name": "Vertex Pharmaceuticals Incorporated  ",
+    "desc": "Vertex Pharmaceuticals Incorporated (Vertex) is in the business of discovering, developing, manufacturing and commercializing small molecule drugs for the treatment of serious diseases. The Company's two products are INCIVEK (telaprevir), which is approved for the treatment of patients with genotype 1 hepatitis C virus (HCV), infection, and KALYDECO (ivacaftor), which is approved in the United States for the treatment of patients six years of age and older with cystic fibrosis (CF), who have at least one copy of the G551D mutation in the cystic fibrosis transmembrane conductance regulator (CFTR), gene. The Company has ongoing clinical programs involving drug candidates intended for the treatment of HCV infection, CF, rheumatoid arthritis, influenza and epilepsy. INCIVEK (telaprevir) achieved initial commercial acceptance following its approval in May 2011. It started marketing KALYDECO in the United States in January 2012."
+  },
+  "COP": {
+    "id": "COP",
+    "name": "ConocoPhillips  ",
+    "desc": "ConocoPhillips is an independent exploration and production (E&P) company, based on proved reserves and production of liquids and natural gas. The Company explores for, produces, transports and markets crude oil, bitumen, natural gas, liquefied natural gas (LNG) and natural gas liquids on a worldwide basis. As of December 31, 2013, its continuing operations were producing in the United States, Norway, the United Kingdom, Canada, Australia, Timor-Leste, Indonesia, China, Malaysia, Qatar, Libya and Russia. The Company manages its operations through six operating segments, which include Alaska, Lower 48 and Latin America, Canada, Europe, Asia Pacific and Middle East, and Other International. In July 2014, it completed the transaction with Oando Energy Resources (OER), a subsidiary of Oando PLC, for the sale of its Nigeria upstream business. In July 2014, Oando Energy Resources Inc acquired the Nigerian Upstream Oil and Gas Business of ConocoPhillips."
+  },
+  "TSLA": {
+    "id": "TSLA",
+    "name": "Tesla Motors Inc  ",
+    "desc": "Tesla Motors, Inc. (Tesla) designs, develops, manufactures and sells electric vehicles and advanced electric vehicle powertrain components. Tesla owns its sales and service network. The Company is engaged in commercially producing a federally-compliant electric vehicle, the Tesla Roadster. addition to developing its Model S and future vehicle manufacturing capabilities at the Tesla Factory, the Company is designing, developing and manufacturing lithium-ion battery packs, electric motors, gearboxes and components both for its vehicles and for its original equipment manufacturer customers. These activities occur at its electric powertrain manufacturing facility in Palo Alto, California and at the Tesla Factory. The Company provides services for the development of electric powertrain components and sells electric powertrain components to other automotive manufacturers."
+  },
+  "PFE": {
+    "id": "PFE",
+    "name": "Pfizer Inc.  ",
+    "desc": "Pfizer Inc. (Pfizer) is a research-based, global biopharmaceutical company. The Company manages its operations through five segments: Primary Care; Specialty Care and Oncology; Established Products and Emerging Markets; Animal Health, and Consumer Healthcare. The Company's diversified global healthcare portfolio includes human and animal biologic and small molecule medicines and vaccines, as well as nutritional products and consumer healthcare products. Its Animal Health business unit discovers, develops and sells products for the prevention and treatment of diseases in livestock and companion animals. Primary Care operating segment includes revenues from human prescription pharmaceutical products primarily prescribed by primary-care physicians. In November 2012, the Company acquired NextWave Pharmaceuticals, Inc. On November 30, 2012, the Company completed the sale of its Nutrition business."
+  },
+  "UTX": {
+    "id": "UTX",
+    "name": "United Technologies Corporation  ",
+    "desc": "United Technologies Corporation (UTC) provides high technology products and services to the building systems and aerospace industries worldwide. The Company operates in six segments:Otis, Carrier and UTC Fire & Security (collectively referred to as the commercial businesses) serve customers in the commercial, government infrastructure and residential property sectors worldwide. Pratt & Whitney, Hamilton Sundstrand and Sikorsky (collectively referred to as the aerospace businesses) primarily serves commercial and government customers in both the original equipment and aftermarket parts and services markets of the aerospace industry. Hamilton Sundstrand, Pratt & Whitney and UTC Fire & Security also serve customers in certain industrial markets.In April 2014, United Technologies Corp announced that Interlogix, part of UTC Building & Industrial Systems, a unit of United Technologies Corp acquired Ultra High Speed (UHS) from Australian company Hills Ltd."
+  },
+  "HD": {
+    "id": "HD",
+    "name": "The Home Depot, Inc.  ",
+    "desc": "The Home Depot, Inc. (The Home Depot) is a home improvement retailer. The Company operates The Home Depot stores, which are full-service, warehouse-style stores. The Home Depot stores sell an assortment of building materials, home improvement and lawn and garden products and provide a number of services. The Home Depot stores average approximately 104,000 square feet of enclosed space, with approximately 24,000 additional square feet of outside garden area. The Home Depot stores serve three primary customer groups: do-it-yourself (D-I-Y) customers, do-it-for-me (D-I-F-M) customers and professional customers. In February 2013, it acquired Measurecomp LLC and HD Components LLC. In January 2014, Home Depot Inc acquired Blinds.com."
+  },
+  "AAPL": {
+    "id": "AAPL",
+    "name": "Apple Inc.  ",
+    "desc": "Apple Inc. (Apple) designs, manufactures and markets mobile communication and media devices, personal computers, and portable digital music players, and a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications. The Company's products and services include iPhone, iPad, Mac, iPod, Apple TV, a portfolio of consumer and professional software applications, the iOS and OS X operating systems, iCloud, and a variety of accessory, service and support offerings. The Company also delivers digital content and applications through the iTunes Store, App StoreSM, iBookstoreSM, and Mac App Store. The Company distributes its products worldwide through its retail stores, online stores, and direct sales force, as well as through third-party cellular network carriers, wholesalers, retailers, and value-added resellers. In February 2012, the Company acquired app-search engine Chomp."
+  },
+  "MRK": {
+    "id": "MRK",
+    "name": "Merck & Co., Inc.  ",
+    "desc": "Merck & Co., Inc. (Merck), is a global health care company that delivers health solutions through its prescription medicines, vaccines, biologic therapies, animal health, and consumer care products, which it markets directly and through its joint ventures. The Company consists of four operating segments, which are the Pharmaceutical, Animal Health, Consumer Care and Alliances segments, and one reportable segment, which is the Pharmaceutical segment. The Pharmaceutical segment includes human health pharmaceutical and vaccine products marketed either directly by the Company or through joint ventures. Human health pharmaceutical products consist of therapeutic and preventive agents, generally sold by prescription, for the treatment of human disorders. On July 2, 2014, Santen Pharmaceutical Co., Ltd acquired certain ophthalmology assets from Merck & Co., Inc. On August 5, 2014, Merck & Co Inc (Merck) acquired Idenix Pharmaceuticals Inc (Idenix)."
+  },
+  "PCP": {
+    "id": "PCP",
+    "name": "Precision Castparts Corp.  ",
+    "desc": "Precision Castparts Corp. (PCC) is a manufacturer of metal components and products, provides investment castings, forgings and fasteners/fastener systems for critical aerospace and industrial gas turbine (IGT) applications. It also provides aero-structures for the aerospace industry; investment castings and forgings for general industrial, armament, medical and other applications; nickel alloys in all standard mill forms from ingots and billets to plate, sheet, strip, tubing, bar and wire, as well as cobalt alloys, for the aerospace, chemical processing, oil and gas, pollution control and other industries; seamless pipe for coal-fired, industrial gas turbine, and nuclear power plants, as well as oil and gas applications; revert management solutions among others. In January 2014, Precision Castparts Corp acquired SOS Metals Inc, a provider of metal recycling services. In January 2014, the Company acquired Trans World Alloys Inc."
+  },
+  "AXP": {
+    "id": "AXP",
+    "name": "American Express Company  ",
+    "desc": "American Express Company is a global services company. The Company's principal products and services are charge and credit payment card products and travel-related services offered to consumers and businesses worldwide. The Company operates in four segments: U.S. Card Services, International Card Services, Global Commercial Services (GCS) and Global Network & Merchant Services (GNMS). The U.S. Card Services segment issues a range of card products and services to consumers and small businesses in the United States and provides consumer travel services to card members and other consumers. The International Card Services segment issues consumer and small business cards outside the United States. GCS offers global corporate payment and travel-related products and services to large and mid-sized companies. GNMS operates a global payments network, which processes and settles proprietary and non-proprietary card transactions."
+  },
+  "PM": {
+    "id": "PM",
+    "name": "Philip Morris International Inc.  ",
+    "desc": "Philip Morris International Inc. (PMI) is a holding company. PMI's subsidiaries and affiliates and their licensees are engaged in the manufacture and sale of cigarettes and other tobacco products in markets outside of the United States of America. Its products are sold in approximately 180 countries. The Company divides its markets into four geographic segments: The European Union (EU) Region , The Eastern Europe, Middle East & Africa (EEMA) Region , The Asia Region and The Latin America & Canada Region. In January 1, 2011, it established a business structure with Vietnam National Tobacco Corporation (Vinataba) in Vietnam, further developing its joint venture with Vinataba through the licensing of Marlboro and establishing a PMI-controlled branch for the building of its brands. Effective June 26, 2014, Philip Morris International Inc acquired Nicocigs Ltd."
+  },
+  "CSCO": {
+    "id": "CSCO",
+    "name": "Cisco Systems, Inc.  ",
+    "desc": "Cisco Systems, Inc. (Cisco) designs, manufactures, and sells Internet protocol (IP)-based networking and other products related to the communications and information technology (IT) industry and provide services associated with these products and their use. The Company provides a line of products for transporting data, voice, and video within buildings, across campuses, and around the world. Its products are designed to transform how people connect, communicate, and collaborate. Its products are installed at enterprise businesses, public institutions, telecommunications companies, commercial businesses, and personal residences. The Company operates in three segments: The Americas; Europe, Middle East, and Africa (EMEA), and Asia Pacific, Japan, and China (APJC). In July 2014, the Company acquired privately held Tail-f Systems."
+  },
+  "MDT": {
+    "id": "MDT",
+    "name": "Medtronic, Inc.  ",
+    "desc": "Medtronic, Inc. (Medtronic) is a medical technology company. The Company provides products and therapies for use by medical professionals to meet the healthcare needs of their patients. Its primary products include those for cardiac rhythm disorders, cardiovascular disease, neurological disorders, spinal conditions and musculoskeletal trauma, urological and digestive disorders, and ear, nose, and throat and diabetes conditions. Medtronic operates through three segments that manufacture and sells device-based medical therapies. Its operating segments are Cardiac and Vascular Group, which consists of Cardiac Rhythm Disease Management (CRDM), Coronary, Structural Heart and Endovascular; Restorative Therapies Group, which consists of Spine, Neuromodulation and Surgical Technologies, and Diabetes Group. In January 2014, the Company acquired TYRX, Inc. In July 2014, it acquired Visualase, Inc. Effective August 27, 2014, the Company acquired the remaining 70% interest in NGC Medical SpA."
+  },
+  "QCOM": {
+    "id": "QCOM",
+    "name": "QUALCOMM, Inc.  ",
+    "desc": "QUALCOMM Incorporated (Qualcomm), is engaged in design, manufacture, have manufactured on its behalf and market digital communications products and services based on code division multiple access (CDMA), Orthogonal Frequency Division Multiplexing (OFDMA) and other technologies. The Company operates in four segments: Qualcomm CDMA Technologies (QCT); Qualcomm Technology Licensing (QTL); Qualcomm Wireless & Internet (QWI), and Qualcomm Strategic Initiatives (QSI). The Company develops and supply integrated circuits and system software based on CDMA, OFDMA and other technologies for uses in voice and data communications, networking, application processing, multimedia and global positioning system products. Effective June 18, 2014, Qualcomm Inc acquired Black Sand Technologies Inc, an Austin-based manufacturer of semiconductors. Effective July 3, 2014, Qualcomm acquired Wilocity Ltd."
+  },
+  "WMT": {
+    "id": "WMT",
+    "name": "Wal-Mart Stores, Inc.  ",
+    "desc": "Wal-Mart Stores, Inc. (Walmart), operates retail stores in various formats globally. The Company operates in three segments: the Walmart U.S., the Walmart International and the Sam's Club. During the fiscal year ended January 31, 2013 (fiscal 2013), its Walmart U.S. segment accounted for approximately 59% of its net sales and operated retail stores in various formats in all 50 states in the United States and Puerto Rico, as well as Walmart's online retail operations, walmart.com. Its Walmart International segment consists of retail operations in 26 countries. The Walmart International segment includes a range of formats of retail stores, restaurants, Sam's Clubs and online retail operations, which operate outside the United States. Its Sam's Club segment consists of membership warehouse clubs operated in 47 states in the United States and Puerto Rico, as well as the segment's online retail operations, samsclub.com. Effective February 24, 2014, Wal-Mart Stores Inc acquired Yumprint."
+  },
+  "CB": {
+    "id": "CB",
+    "name": "The Chubb Corporation  ",
+    "desc": "The Chubb Corporation (Chubb) is a holding company for several, separately organized, property and casualty insurance companies referred to informally as the Chubb Group of Insurance Companies (the P&C Group). The P&C Group provides property and casualty insurance to businesses and individuals worldwide. The P&C Group is divided into three business units: Chubb Personal Insurance, Chubb Commercial Insurance and Chubb Specialty Insurance. Chubb Commercial Insurance offers a range of commercial insurance products, including coverage for multiple peril, casualty, workers' compensation and property and marine. Chubb Specialty Insurance offers a variety of professional liability products for privately and publicly owned companies, financial institutions, professional firms, healthcare and not-for-profit organizations. Chubb Specialty Insurance also includes its surety business."
+  },
+  "ABBV": {
+    "id": "ABBV",
+    "name": "AbbVie Inc  ",
+    "desc": "AbbVie Inc. (AbbVie) is a research-based pharmaceuticals company. The Company discovers, develops, and commercializes advanced therapies. AbbVie's portfolio of products include a line of adult and pediatric pharmaceuticals, which includes HUMIRA, metabolics/hormones products, virology products, endocrinology products, dyslipidemia products and other products. AbbVie products are used to treat rheumatoid arthritis, psoriasis, Crohn's disease, human immunodeficiency virus (HIV), cystic fibrosis complications, low testosterone, thyroid disease, Parkinson's disease and complications associated with chronic kidney disease, among other indications. In October 2012, AbbVie initiated a comprehensive Phase III program for hepatitis C virus (HCV) genotype one."
+  },
+  "JPM": {
+    "id": "JPM",
+    "name": "JPMorgan Chase & Co.  ",
+    "desc": "JPMorgan Chase & Co. (JPMorgan Chase) is a financial holding company. The Company is engaged in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing, asset management and private equity. One of the Company's principal operating subsidiaries in the United Kingdom is J.P. Morgan Securities plc. JPMorgan Chase's activities are organized into four business segments, as well as Corporate/Private Equity. The Company's consumer business is the Consumer & Community Banking segment. In March 2014, Aurora Oil & Gas Ltd announced that JPMorgan Chase & Co and its affiliates has ceased to be substantial shareholder of Aurora Oil & Gas. In March 2014, Slater & Gordon Ltd announced that JPMorgan Chase & Co and its affiliates has ceased to be substantial shareholder of the Company. In May 2014, the Company and its affiliates ceased to be a substantial share holder of Windimurra Vanadium Ltd."
+  },
+  "GOOGL": {
+    "id": "GOOGL",
+    "name": "Google Inc  ",
+    "desc": "Google Inc. (Google), is a global technology company. The Company's business is primarily focused around key areas, such as search, advertising, operating systems and platforms, enterprise and hardware products. The Company generates revenue primarily by delivering online advertising. The Company also generates revenues from Motorola by selling hardware products. Effective May 16, 2014, Google Inc acquired Quest Visual Inc. Effective May 20, 2014, Google Inc acquired Enterproid Inc, doing business as Divide. In June 2014, Google Inc acquired mDialog Corp. Effective June 25, 2014, Google Inc acquired Appurify Inc, a San Francisco-based developer of mobile bugging application software. Effective 23, July, 2014, Google Inc acquired drawElements Oy, a Helsinki-based developer of 3D graphics software. Effective August 6, 2014, Google Inc acquired Tinker Square Inc. Effective August 22, 2014, Google Inc acquired Gecko Design Inc. Effective August 26, 2014, Google Inc acquired Zync Inc."
+  },
+  "CMCSA": {
+    "id": "CMCSA",
+    "name": "Comcast Corporation  ",
+    "desc": "Comcast Corporation (Comcast is a provider of entertainment, information and communications products and services. The Company operates in five segments: Cable Communications, Cable Networks, Broadcast Television, Filmed Entertainment and Theme Parks. Cable Communications provides video, high-speed Internet and voice services (cable services) to residential and business customers. Cable Networks consists primarily of its national cable television networks, its regional sports and news networks, its international cable networks, its cable television production studio, and its related digital media properties. Broadcast Television consists primarily of its NBC and Telemundo broadcast networks. Filmed Entertainment consists of the operations of Universal Pictures. Theme Parks consists primarily of its Universal theme parks in Orlando and Hollywood. Effective July 14, 2014, Comcast Corp acquired PowerCloud Systems Inc."
+  },
+  "GOOG": {
+    "id": "GOOG",
+    "name": "Google Inc  ",
+    "desc": "Google Inc. (Google), is a global technology company. The Company's business is primarily focused around key areas, such as search, advertising, operating systems and platforms, enterprise and hardware products. The Company generates revenue primarily by delivering online advertising. The Company also generates revenues from Motorola by selling hardware products. Effective May 16, 2014, Google Inc acquired Quest Visual Inc. Effective May 20, 2014, Google Inc acquired Enterproid Inc, doing business as Divide. In June 2014, Google Inc acquired mDialog Corp. Effective June 25, 2014, Google Inc acquired Appurify Inc, a San Francisco-based developer of mobile bugging application software. Effective 23, July, 2014, Google Inc acquired drawElements Oy, a Helsinki-based developer of 3D graphics software. Effective August 6, 2014, Google Inc acquired Tinker Square Inc. Effective August 22, 2014, Google Inc acquired Gecko Design Inc. Effective August 26, 2014, Google Inc acquired Zync Inc."
+  },
+  "INTC": {
+    "id": "INTC",
+    "name": "Intel Corporation  ",
+    "desc": "Intel Corporation, incorporated in 1968, designs and manufactures integrated digital technology platforms. A platform consists of a microprocessor and chipset. The Company sells these platforms primarily to original equipment manufacturers (OEMs), original design manufacturers (ODMs), and industrial and communications equipment manufacturers in the computing and communications industries. The Company's platforms are used in a range of applications, such as personal computers (PCs) (including Ultrabook systems), data centers, tablets, smartphones, automobiles, automated factory systems and medical devices. The Company also develops and sells software and services primarily focused on security and technology integration. In February 2014, M/A-COM Technology Solutions Holdings Inc announced that its subsidiary Mindspeed Technologies Inc completed the sale of assets of its wireless infrastructure business unit to Intel Corporation."
+  },
+  "CVS": {
+    "id": "CVS",
+    "name": "CVS Health Corp  ",
+    "desc": "CVS Health Corporation, formerly CVS Caremark Corporation, is advising on prescriptions and helping manage chronic and specialty conditions. CVS Health includes the Company's retail business, which is known as CVS/pharmacy; its pharmacy benefit management business, which is known as CVS/caremark; its walk-in medical clinics, CVS/minuteclinic; and its specialty pharmacy services, CVS/specialty."
+  },
+  "EMC": {
+    "id": "EMC",
+    "name": "EMC Corporation  ",
+    "desc": "EMC Corporation (EMC) develops, delivers and supports the information technology (IT) industry's range of information infrastructure and virtual infrastructure technologies, solutions and services. EMC enables businesses and service providers to transform their operations and deliver IT as a service. EMC manages its business as three federated businesses, each of which plays a vital role in the delivery of IT-as-a-service (ITaaS): EMC Information Infrastructure, Pivotal and VMware Virtual Infrastructure. The EMC Information Infrastructure business consists of three segments: Information Storage, Information Intelligence and RSA Information Security. EMC's majority-owned Pivotal Software, Inc. (Pivotal) is a provider of application and data infrastructure software, agile development services and data science consulting. VMware Virtual Infrastructure, which is represented by EMC's majority equity stake in VMware, Inc. (VMware), is a provider of virtualization infrastructure solutions."
+  },
+  "BA": {
+    "id": "BA",
+    "name": "The Boeing Company  ",
+    "desc": "The Boeing Company (Boeing) is an aerospace company. The Company operates in five segments: Commercial Airplanes, Boeing Military Aircraft (BMA), Network & Space Systems (N&SS), Global Services & Support (GS&S) and Boeing Capital Corporation (BCC). Boeing Defence, Space & Security (BDS) consists of three capabilities-driven businesses: BMA, N&SS and GS&S. Its Other segment includes the unallocated activities of engineering, operations and technology (EO&T) and Shared Services Group (SSG), as well as intercompany guarantees provided to BCC. EO&T provides Boeing with technical and functional capabilities, including information technology, research and development, test and evaluation, technology strategy development, environmental remediation management and intellectual property management. In June 2014, Boeing Co acquired Ventura Solutions Inc, an Annapolis Junction-based developer of custom software and hardware solutions."
+  },
+  "ESRX": {
+    "id": "ESRX",
+    "name": "Express Scripts Holding Company  ",
+    "desc": ""
+  },
+  "RTN": {
+    "id": "RTN",
+    "name": "Raytheon Company  ",
+    "desc": "Raytheon Company together with its subsidiaries, is a technology company specializing in defense, homeland security and other government markets worldwide. The Company provides electronics, mission systems integration and other capabilities in the areas of sensing, effects, and command, control, communications and intelligence systems (C3I), as well as a range of mission support services. It serves both domestic and international customers, principally as a prime contractor on a portfolio of defense and related programs for government customers. The Company operates in six business segments: Integrated Defense Systems (IDS); Intelligence and Information Systems (IIS); Missile Systems (MS); Network Centric Systems (NCS); Space and Airborne Systems (SAS), and Technical Services (TS). On January 31, 2011, the Company acquired Raytheon Applied Signal Technology, Inc. (RAST). Effective June 27, 2013, Raytheon Co acquired Visual Analytics Inc."
+  },
+  "MO": {
+    "id": "MO",
+    "name": "Altria Group Inc  ",
+    "desc": "Altria Group, Inc., is a holding company. At December 31, 2012, Altria Group, Inc.'s direct and indirect wholly-owned subsidiaries included Philip Morris USA Inc. (PM USA), which is engaged in the manufacture and sale of cigarettes and certain smokeless products in the United States; John Middleton Co. (Middleton), which is engaged in the manufacture and sale of machine-made cigars and pipe tobacco, and is a wholly owned subsidiary of PM USA; and UST LLC (UST), which through its direct and indirect wholly-owned subsidiaries, including U.S. Smokeless Tobacco Company LLC (USSTC) and Ste. Michelle Wine Estates Ltd. (Ste. Michelle), is engaged in the manufacture and sale of smokeless products and wine. In April 2014, the Company;s subsidiary Nu Mark LLC completed acquisition of e-vapor business of Green Smoke, Inc and its affiliates.."
+  },
+  "HON": {
+    "id": "HON",
+    "name": "Honeywell International Inc.  ",
+    "desc": "Honeywell International Inc. (Honeywell) is a diversified technology and manufacturing company, serving customers worldwide with aerospace products and services, control, sensing and security technologies for buildings, homes and industry, turbochargers, automotive products, specialty chemicals, electronic and advanced materials, process technology for refining and petrochemicals, and energy efficient products and solutions for homes, business and transportation. Honeywell operates four business segments: Aerospace, Automation and Control Solutions, Performance Materials and Technologies, and Transportation Systems. In July 2014, the Company announced that it has completed the sale of its Friction Materials (FM) business to Federal-Mogul."
+  },
+  "BLK": {
+    "id": "BLK",
+    "name": "BlackRock, Inc.  ",
+    "desc": "BlackRock, Inc. (BlackRock) is an investment management firm. The Company provides a range of investment and risks management services. The Company's clients include retail, high net worth (HNW) and institutional investors, consists of pension funds, official institutions, endowments, insurance companies, corporations, financial institutions, central banks and sovereign wealth funds. The Company's platform enables the Company to offer active (alpha) investments with index (beta) products and risk management to develop tailored solutions for clients. Its product range includes single- and multi-asset class portfolios investing in equities, fixed income, alternatives and/or money market instruments. In October 2013, BlackRock Inc acquired Macquarie Global Property Advisors Ltd. In January 2014, Forge Group Limited announced that BlackRock Inc. and subsidiaries had ceased to be the substantial holder of Forge Group Limited."
+  },
+  "IBM": {
+    "id": "IBM",
+    "name": "International Business Machines Corp.  ",
+    "desc": "International Business Machines Corporation (IBM) is an information technology (IT) company. IBM operates in five segments: Global Technology Services (GTS), Global Business Services (GBS), Software, Systems and Technology and Global Financing. GTS primarily provides IT infrastructure services and business process services. GBS provides professional services and application management services. Software consists primarily of middleware and operating systems software. Systems and Technology provides clients with business solutions requiring advanced computing power and storage capabilities. Global Financing invests in financing assets, leverages with debt and manages the associated risks. In July 2014, the Company acquired CrossIdeas, privately held provider of security software that governs user access to applications and data across on-premise and cloud environments. In August 2014, it acquired the business operations of Lighthouse Security Group, LLC."
+  },
+  "OXY": {
+    "id": "OXY",
+    "name": "Occidental Petroleum Corporation  ",
+    "desc": "Occidental Petroleum Corporation (Occidental) conducts its operations through various subsidiaries and affiliates. The Company operates in three segments: oil and gas segment; chemical segment, and midstream, marketing and other segment. The oil and gas segment explores for, develops and produces oil and condensate, natural gas liquids (NGLs) and natural gas. The chemical segment (OxyChem) mainly manufactures and markets basic chemicals and vinyls. The midstream, marketing and other segment (midstream and marketing) gathers, processes, transports, stores, purchases and markets oil, condensate, NGLs, natural gas, carbon dioxide (CO2) and power. It also trades around its assets, including transportation and storage capacity, and trades oil, NGLs, gas and other commodities. The segment also invests in entities that conduct similar activities. On December 31, 2012, it acquired Eagle Ford Shale."
+  },
+  "MET": {
+    "id": "MET",
+    "name": "Metlife Inc  ",
+    "desc": "MetLife, Inc. (MetLife) is a provider of insurance, annuities and employee benefit programs, serving 90 million customers in over 50 countries. Through its subsidiaries and affiliates, MetLife operates in the United States, Japan, Latin America, Asia Pacific, Europe and the Middle East. It is organized into six segments: Insurance Products, Retirement Products, Corporate Benefit Funding and Auto & Home (collectively, U.S. Business), and Japan and Other International Regions (collectively, International). U.S. Business provides insurance and financial services products, including life, dental, disability, auto and homeowner insurance. In September 2013, MetLife Inc and Thayer Lodging Group acquired the 365-room Hilton Los Cabos Beach & Golf Resort in Cabo San Lucas, Mexico in a joint venture. Effective August 12, 2014, MetLife Inc acquired The Loop, a Kissimmee-based shopping center."
+  },
+  "MCD": {
+    "id": "MCD",
+    "name": "McDonald's Corporation  ",
+    "desc": "McDonald's Corporation franchises and operates McDonald's restaurants in the global restaurant industry. These restaurants serve menu at various price points providing value in 119 countries globally. All restaurants are operated either by the Company or by franchisees, including conventional franchisees under franchise arrangements, and developmental licensees and foreign affiliated markets under license agreements. Under the conventional franchise arrangement, franchisees provide a portion of the capital required by initially investing in the equipment, signs, seating and decor of their restaurant businesses, and by reinvesting in the business over time. The Company owns the land and building or secures long-term leases for both Company-operated and conventional franchised restaurant sites. In certain circumstances, the Company participates in reinvestment for conventional franchised restaurants. In February 2014, McDonald's Corp announced the opening of its restaurant in Vietnam."
+  },
+  "EXC": {
+    "id": "EXC",
+    "name": "Exelon Corporation  ",
+    "desc": "Exelon Corporation (Exelon) is an energy provider and holding company for several energy businesses. Exelon is engaged in the energy generation business through its Exelon Generation Company, LLC (Generation) subsidiary; wholesale and retail energy sales through its Constellation business unit, and the energy delivery business through its Baltimore Gas and Electric (BGE), Commonwealth Edison Company (ComEd) and PECO Energy Company (PECO) subsidiaries. It operates in 47 states, the District of Columbia and Canada. Exelon Generation has approximately 35,000 megawatts of owned capacity. Constellation provides energy products and services to approximately 100,000 business and public sector customers and approximately 1 million residential customers. Exelon's utilities deliver electricity and natural gas to more than 6.6 million customers in central Maryland, northern Illinois and southeastern Pennsylvania. On March 12, 2012, Constellation Energy Group, Inc. merged into Exelon."
+  },
+  "EBAY": {
+    "id": "EBAY",
+    "name": "eBay Inc  ",
+    "desc": "eBay Inc., is a global technology company. The Company enables commerce through three reportable segments: Marketplaces, Payments, and GSI. The Company by providing online platforms, tools and services to help individuals and small, medium and merchants around the globe engage in online and mobile commerce and payments, the Company can facilitate transactions. The Company also generates revenue through marketing services, classifieds and advertising. The Company has also created an open source platform that provides software developers and merchants access to its applications programming interfaces (APIs), to develop software and solutions for commerce. Its developer community includes more than 800,000 members. In December 2013, the Company announced that it has completed the acquisition of acquisition of Braintree. Effective February 19, 2014, eBay Inc acquired PhiSix Inc."
+  },
+  "SHW": {
+    "id": "SHW",
+    "name": "Sherwin-Williams Company  ",
+    "desc": "The Sherwin-Williams Company (Sherwin-Williams) is engaged in the development, manufacture, distribution and sale of paint, coatings and related products to professional, industrial, commercial and retail customers primarily in North and South America with additional operations in the Caribbean region, Europe and Asia. The Company has four segments: Paint Stores Group, Consumer Group, Global Finishes Group and Latin America Coatings Group. In September 2013, Sherwin-Williams Co announced that it has completed the acquisition of the United States/Canada business of Consorcio Comex, S.A. de C.V."
+  },
+  "DD": {
+    "id": "DD",
+    "name": "E I Du Pont De Nemours And Co  ",
+    "desc": "Dupont E I De Nemours & Co, formerly E. I. du Pont de Nemours and Company, manufacturing, seed production or selling activities and some are distributors of products manufactured by the Company. The Company's segments are Agriculture, Electronics & Communications, Industrial Biosciences, Nutrition & Health, Performance Chemicals, Performance Coatings, Performance Materials, Safety & Protection and Pharmaceuticals. During the year ended December 31, 2011, the Electronics & Communications segment completed the acquisition of Innovalight, Inc., a company specializing in advanced silicon inks and process technologies that increase the efficiency of crystalline silicon solar cells. As of September 22, 2011, it acquired Danisco A/S (Danisco), a global enzyme and specialty food ingredients company. In May 2012, it acquired from Bunge full ownership of the Solae, LLC joint venture. In February 2013, the Company sold DuPont Performance Coatings."
+  },
+  "TRV": {
+    "id": "TRV",
+    "name": "Travelers Companies Inc  ",
+    "desc": "The Travelers Companies, Inc. (TRV) is a holding company. The Company, through its subsidiaries, is engaged in providing a range of commercial and personal property and casualty insurance products and services to businesses, Government units, associations and individuals. The Company is organized into three business segments: Business Insurance; Financial, Professional and International Insurance, and Personal Insurance. The Business Insurance segment offers an array of property and casualty insurance and insurance-related services to its clients primarily in the United States. The Financial, Professional and International Insurance segment includes surety and financial liability coverage's, which primarily use credit-based underwriting processes, as well as property and casualty products that are marketed on a domestic basis. In November 2013, the Company completed the sale of its wholly owned subsidiary The Dominion of Canada General Insurance Company to The Travelers Companies, Inc."
+  },
+  "KMB": {
+    "id": "KMB",
+    "name": "Kimberly Clark Corp  ",
+    "desc": "Kimberly-Clark Corporation (Kimberly-Clark), incorporated on June 29, 1928, is engaged in the manufacturing and marketing of a range of products made from natural or synthetic fibers. The Company operates in Personal Care, Consumer Tissue, K-C Professional and HealthCare. The Company operates and markets its products globally in Asia, Latin America, Eastern Europe, the Middle East and Africa, with a particular emphasis in China, Russia and Latin America. In April 2013, it announced the acquisition of the anesthesia business of Life-Tech, Inc."
+  },
+  "ADP": {
+    "id": "ADP",
+    "name": "Automatic Data Processing  ",
+    "desc": "Automatic Data Processing, Inc. (ADP) is a provider of business outsourcing solutions. ADP offers a wide range of human resource, payroll, tax and benefits administration solutions from a single source. ADP is also a provider of integrated computing solutions to auto, truck, motorcycle, marine, recreational vehicle, and heavy equipment dealers throughout the world. The Company's operating segments include: Employer Services, professional employer organization (PEO) Services, and Dealer Services. In October 2011, the Company acquired WALLACE - The Training Tax Credit Company. In January 2012, the Company acquired Indian payroll business of Randstad Holding NV. In April 2012, it acquired the human resource solutions subsidiary of SHPS, Inc. In June 2013, Automatic Data Processing, Inc. announced that it has acquired Payroll S.A."
+  },
+  "BDX": {
+    "id": "BDX",
+    "name": "Becton, Dickinson and Co.  ",
+    "desc": "Becton Dickinson and Co is a global medical technology company engaged in the development, manufacture and sale of medical devices, instrument systems and reagents used by healthcare institutions, life science researchers, clinical laboratories, the pharmaceutical industry and the general public. The Company's operations consist of three business segments: BD Medical, BD Diagnostics and BD Biosciences. BD Medical produces a range of medical devices, which are used in a range of healthcare settings. BD Biosciences produces research and clinical tools that facilitate the study of cells, and the components of cells. BD Diagnostics provides products for the safe collection and transport of diagnostics specimens. On March 11, 2013, the Company acquired a 100% interest in Cato Software Solutions (Cato)."
+  },
+  "BAX": {
+    "id": "BAX",
+    "name": "Baxter International Inc.  ",
+    "desc": "Baxter International Inc. (Baxter) is a global, diversified healthcare company. Baxter, through its subsidiaries, develops, manufactures and markets products that save and sustain the lives of people with hemophilia, immune disorders, infectious diseases, kidney disease, trauma, and other chronic and acute medical conditions. The Company operated in two segments: BioScience and Medication Delivery. It is engaged in the medical devices, pharmaceuticals and biotechnology to create products that advance patient care worldwide. These products are used by hospitals, kidney dialysis centers, nursing homes, rehabilitation centers, doctors' offices, clinical and medical research laboratories, and by patients at home under physician supervision. Baxter manufactures products in 27 countries and sells the products in more than 100 countries. In September 2013, Baxter International Inc completed the acquisition of Gambro AB. Effective July 9, 2014, Baxter International Inc acquired AesRX LLC."
+  },
+  "TWX": {
+    "id": "TWX",
+    "name": "Time Warner Inc  ",
+    "desc": "Time Warner Inc. (Time Warner) is a media and entertainment company. The Company operates in three reporting segments: Networks, Film and TV Entertainment and Publishing. Networks consist of television networks and premium pay and basic tier television services and digital media properties. Film and TV Entertainment consists of feature film, television, home video and videogame production and distribution. Publishing consists of magazine publishing. In August 2012, Turner Broadcasting System, Inc. acquired Bleacher Report. In June 2014, the Company completed the spin-off of Time Inc."
+  },
+  "SLB": {
+    "id": "SLB",
+    "name": "Schlumberger Limited.  ",
+    "desc": "Schlumberger N.V. (Schlumberger) is the supplier of technology, integrated project management and information solutions to the international oil and gas exploration and production industry. The Company's segments include Reservoir Characterization Group, which consists of the principal technologies involved in finding and defining hydrocarbon deposits; Drilling Group, which consists of the principal technologies involved in the drilling and positioning of oil and gas wells, and Production Group consists of the principal technologies involved in the lifetime production of oil and gas reservoirs and includes Well Services, Completions, Artificial Lift, Well Intervention, Subsea, Water Services, Carbon Services and the Schlumberger Production Management field production projects."
+  },
+  "UPS": {
+    "id": "UPS",
+    "name": "United Parcel Service, Inc.  ",
+    "desc": "United Parcel Service, Inc. (UPS) is a package delivery company. The Company delivers packages each business day for 1.1 million shipping customers to 7.7 million consignees in over 220 countries and territories. During the year ended December 31, 2012, it delivered an average of 16.3 million pieces per day worldwide, or a total of 4.1 billion packages. It serves the global market for logistics services, which include transportation, distribution, forwarding, ground, ocean and air freight, brokerage and financing. The Company has three segments: U.S. Domestic Package, International Package and Supply Chain & Freight. In February 2012, it acquired Kiala S.A. In February 2014, United Parcel Service acquired Polar Speed Distribution Ltd."
+  },
+  "M": {
+    "id": "M",
+    "name": "Macy's, Inc.  ",
+    "desc": "Macy's, Inc. (Macy's) is a retail organization operating stores and Internet Websites under two brands (Macy's and Bloomingdale's) that sell a range of merchandise, including apparel and accessories (men's, women's and children's), cosmetics, home furnishings and other consumer goods in 45 states, the District of Columbia, Guam and Puerto Rico. As of January 28, 2012, the Company's operations were conducted through Macy's, macys.com, Bloomingdale's, bloomingdales.com and Bloomingdale's Outlet. During the year ended December 31, 2011, the Company opened three new Bloomingdale's Outlet stores and re-opened one Macy's store. On February 25, 2011, the Company sold its investment in The Knot, Inc."
+  },
+  "TXN": {
+    "id": "TXN",
+    "name": "Texas Instruments Incorporated  ",
+    "desc": "Texas Instruments Inc. (TI) designs and makes semiconductors that the Company sells to electronics designers and manufacturers all over the world. The Company has four segments: Analog, Embedded Processing, Wireless and Other. The Company's products, more than 100,000 orderable parts, are integrated circuits that are used to accomplish many different things, such as converting and amplifying signals, interfacing with other devices, managing and distributing power, processing data, canceling noise and improving signal resolution. The Company sells catalog and, to a lesser extent, custom semiconductor products. The life cycles of catalog products generally span multiple years, with some products continuing to sell for decades after their initial release. The life cycles of custom products are generally determined by end-equipment upgrade cycles and can be as short as 12 to 24 months. In December 2013, TI acquired a building in the Chengdu Hi-Tech Zone from UTAC Chengdu Ltd."
+  },
+  "MMC": {
+    "id": "MMC",
+    "name": "Marsh & McLennan Companies, Inc.  ",
+    "desc": "Marsh & McLennan Companies, Inc. is a global professional services firm providing advice and solutions in the areas of risk, strategy and human capital. It is the parent company of a number of risk experts and specialty consultants. It conducts business through two segments: Risk and Insurance Services includes risk management activities, as well as insurance and reinsurance broking and services, and Consulting include retirement, health, talent and investments consulting and services, and specialized management and economic consulting services. In February 2014, the Company's subsidiary Marsh & McLennan Agency LLC has acquired Barney & Barney, LLC, brokerage firm. In February 2014, Marsh & McLennan Companies Inc announced that Marsh & McLennan Agency LLC acquired The Bond Network. In September 2014, Marsh & McLennan Companies Inc acquires Kocisko Insurance Brokers Inc."
+  },
+  "STI": {
+    "id": "STI",
+    "name": "SunTrust Banks, Inc.  ",
+    "desc": "SunTrust Banks, Inc. (SunTrust) is a commercial banking organization. The Company is a diversified financial services holding company whose businesses provide a range of financial services to consumer and corporate clients. The Company operates in three segments: Consumer Banking and Private Wealth Management, Wholesale Banking, and Mortgage Banking. Through its principal subsidiary, SunTrust Bank, the Company offers a full line of financial services for consumers and businesses including deposit, credit, and trust and investment services. Additional subsidiaries provide mortgage banking, asset management, securities brokerage, and capital market services. SunTrust operates primarily within Florida, Georgia, Maryland, North Carolina, South Carolina, Tennessee, Virginia, and the District of Columbia. SunTrust provides clients with a selection of branch-based and technology-based banking channels, including the Internet, automatic teller machine (ATMs), and twenty-four hour telebanking."
+  },
+  "CME": {
+    "id": "CME",
+    "name": "CME Group Inc  ",
+    "desc": "CME Group Inc. (CME Group) offer a range of global products across all asset classes based on interest rates, equity indexes, foreign exchange, energy, agricultural commodities, metals, weather and real estate. The Company's products include both exchange-traded and over-the-counter derivatives. CME Group also provides clearing and settlement services for exchange-traded contracts, as well as for cleared over-the-counter derivatives transactions. In April 2012, it acquired a 100% interest in GreenX Holdings LLC. On July 2, 2012, S&P Capital IQ, a business line of The McGraw-Hill Companies acquired London-based Credit Market Analysis Limited (CMA) from CME Group. In November 2013, CME Group Inc announced the sale of the NYMEX Building located at One North End Avenue to Brookfield Office Properties."
+  },
+  "T": {
+    "id": "T",
+    "name": "AT&T Inc.  ",
+    "desc": "AT&T Inc. (AT&T), is a holding company. The Company is a provider of telecommunications services. The services and products offered by the Company include wireless communications, local exchange services, long-distance services, data/broadband and Internet services, video services, telecommunications equipment, managed networking, wholesale services and directory advertising and publishing. AT&T operates in three segments: Wireless, Wireline, and Other. The Company's Wireless subsidiaries provide both wireless voice and data communications services across the United States, and through roaming agreements, in a substantial number of foreign countries. Wireline subsidiaries provide primarily landline voice and data communication services. Its Other segment includes customer information services (operator services) and corporate and other operations. In March 2014, the Company completed the acquisition of prepaid wireless provider Leap Wireless International Inc."
+  },
+  "APA": {
+    "id": "APA",
+    "name": "Apache Corporation  ",
+    "desc": "Apache Corporation (Apache) is an independent energy company, which explores for, develops, and produces natural gas, crude oil, and natural gas liquids. As of December 31, 2011, Apache had exploration and production interests in six countries: the United States, Canada, Egypt, Australia, offshore the United Kingdom in the North Sea, and Argentina. During the year ended December 31, 2011, it participated in drilling 1,087 gross wells, with 1,005 completed as producers. As of December 31, 2011, in addition to its completed wells, several wells had not reached completion: 39 in the United States (28.44 net); 50 in Canada (42.69 net); 23 in Egypt (21.75 net); six in the North Sea (4.91 net); one in Australia (0.33 net), and three in Argentina (3.00 net). In March 2014, the Company sold of its Argentina operations and properties to YPF Sociedad Anonima."
+  },
+  "GIS": {
+    "id": "GIS",
+    "name": "General Mills, Inc.  ",
+    "desc": "General Mills, Inc. (General Mills) is a manufacturer and marketer of branded consumer foods sold through retail stores. The Company is also a supplier of branded and unbranded food products to the foodservice and commercial baking industries. The Company manufactures its products in 15 countries and markets them in more than 100 countries. The Company's joint ventures manufacture and market products in more than 130 countries and republics worldwide. General Mills operates in three segments: U.S. Retail, International, and Bakeries and Foodservice. In addition, the Company sells ready-to-eat cereals through its Cereal Partners Worldwide (CPW) joint venture. In February 2012, General Mills acquired Food Should Taste Good, a natural snack foods company based in Needham Heights, Mass. During the fiscal year ended May 27, 2012, the Company acquired a 51% interest in Yoplait S.A.S. and a 50% interest in Yoplait Marques S.A.S. In August 2012, it acquired Yoki Alimentos SA."
+  },
+  "PSX": {
+    "id": "PSX",
+    "name": "Phillips 66  ",
+    "desc": "Phillips 66 is an energy manufacturing and logistics company with midstream, chemicals, refining, and marketing and specialties businesses. The Company operates in Midstream, Chemicals, Refining and, Marketing and Specialties. It offers several products and services that provide businesses with fuels, lubricants, chemicals, specialty products and other solutions. Phillips 66 Pipe Line Company operates more than 11,000 miles of pipelines and more than 60 storage terminals in the United States and transports both raw and finished petroleum products. Phillips Specialty Products Inc. (PSPI), a wholly owned subsidiary of the Company, operates the Company's flow improver business. In February 2013, the Company formed Phillips 66 Partners, to own, operate, develop and acquire primarily fee-based crude oil, refined petroleum product and natural gas liquids (NGL) pipelines and terminals, as well as other transportation and midstream assets."
+  },
+  "DVN": {
+    "id": "DVN",
+    "name": "Devon Energy Corp  ",
+    "desc": "Devon Energy Corporation (Devon) is an independent energy company engaged primarily in the exploration, development and production of oil, natural gas and natural gas liquids (NGLs). The Company's operations are concentrated in various North American onshore areas in the United States and Canada. The Company also owns natural gas pipelines, plants and treatment facilities in many of its producing areas. The Company holds 14 million net acres, of which roughly two-thirds are undeveloped. The Company's properties in the United States include Barnett Shale, Cana-Woodford Shale, Permian Basin , Gulf Coast/East Texas, Granite Wash , and Mississippian. Its properties in Canada include Jackfish, Pike, Lloydminster. In April 2014, the Company announced that it has completed the sale of Canadian conventional assets to Canadian Natural Resources Ltd."
+  },
+  "NOC": {
+    "id": "NOC",
+    "name": "Northrop Grumman Corporation  ",
+    "desc": "Northrop Grumman Corporation (Northrop Grumman) provides products, services, and integrated solutions in aerospace, electronics, information and services to its global customers. As of December 31, 2011, the Company operated in four segments: Aerospace Systems, Electronic Systems, Information Systems and Technical Services. The Company conducts most of its business with the United States Government, principally the Department of Defense (DoD) and intelligence community. It also conducts business with local, state, and foreign Governments and domestic and international commercial customers. Effective as of March 31, 2011, the company completed the spin-off of Huntington Ingalls Industries, Inc. (HII). HII operates the Company's former shipbuilding business. In September 2012, it acquired M5 Network Security Pty Ltd. In February 2014, Northrop Grumman Corp completed the acquisition of Qantas Defence Services Pty Limited."
+  },
+  "SCHW": {
+    "id": "SCHW",
+    "name": "Charles Schwab Corp  ",
+    "desc": "The Charles Schwab Corporation (CSC) is a savings and loan holding company. The Company engages, through its subsidiaries, in securities brokerage, banking, and related financial services. The Company provides financial services to individuals and institutional clients through two segments: Investor Services and Institutional Services. The Investor Services segment provides retail brokerage and banking services to individual investors. The Institutional Services segment provides custodial, trading and support services to independent investment advisors (IAs). Its business subsidiaries include Charles Schwab & Co., Inc. (Schwab), Charles Schwab Bank and Charles Schwab Investment Management, Inc. (CSIM), which is the investment advisor for Schwab's mutual funds. In November 2011, the Company acquired Compliance11, Inc. In September 2012, GAIN Capital Holdings Inc. acquired Open E Cry, LLC. In December 2012, the Company acquired ThomasPartners, Inc."
+  },
+  "ACE": {
+    "id": "ACE",
+    "name": "ACE Limited  ",
+    "desc": "ACE Ltd (ACE) is a holding company. ACE is a global insurance and reinsurance organization, serving the needs of customers in more than 170 countries. It offers commercial insurance products and service offerings, such as risk management programs, loss control and engineering and complex claims management. It also provides specialized insurance products ranging from Directors & Officers (D&O) and professional liability to various specialty-casualty and umbrella and excess casualty lines to niche areas, such as aviation and energy. In addition, it supplies personal accident, supplemental health, and life insurance to individuals in select countries. ACE operates in four business segments: Insurance-North American, Insurance-Overseas General, Global Reinsurance, and Life. In April 2014, the Company and its local partner have acquired a 60.9% interest in The Siam Commercial Samaggi Insurance PCL, a general insurance company in Thailand, from Siam Commercial Bank."
+  },
+  "TROW": {
+    "id": "TROW",
+    "name": "T. Rowe Price Group Inc  ",
+    "desc": "T. Rowe Price Group, Inc. is a financial services holding company, which provides global investment management services through its subsidiaries to individual and institutional investors in the sponsored T. Rowe Price mutual funds and other investment portfolios, including separately managed accounts, sub-advised funds, and other sponsored investment funds offered to investors outside the United States and through variable annuity life insurance plans in the United States. The Company derives revenue from investment advisory services provided by its subsidiaries, such as T. Rowe Price Associates, Inc. and T. Rowe Price International Ltd. Its revenues depend on the total value and composition of assets under its management. Its assets under management are accumulated from a client base across four distribution channels. Effective August 20, 2013, T Rowe Price Group Inc acquired an undisclosed interest in GrubHub Inc, a provider of online food delivery services."
+  },
+  "NEE": {
+    "id": "NEE",
+    "name": "NextEra Energy Inc  ",
+    "desc": "NextEra Energy, Inc. (NEE) is an electric power company. The Company has over 42,000 megawatt of generating capacity in 26 states in the United States and four provinces in Canada. It also purchases electric power for resale to its customers and provides risk management services related to power and gas consumption for a limited number of customers. It is the generator in North America of renewable energy from the wind and sun. It owns and operates approximately 17% of the installed base of United States wind power production capacity and operates approximately 14% of the installed base of United States utility-scale solar power production capacity as of December 31, 2012. It also owns and operates one of the fleets of nuclear power stations in the United States, with eight reactors at five sites located in four states, representing approximately 6% of United States nuclear power electric generating capacity as of December 31, 2012."
+  },
+  "FITB": {
+    "id": "FITB",
+    "name": "Fifth Third Bancorp  ",
+    "desc": "Fifth Third Bancorp (the Bancorp) is a diversified financial services company. As of December 31, 2011, the Bancorp had $117 billion in assets, operated 15 affiliates with 1,316 full-service Banking Centers, including 104 Bank Mart locations open seven days a week inside select grocery stores, and 2,425 automated teller machines (ATMs) in 12 states throughout the Midwestern and Southeastern regions of the United States. The Bancorp operates in four business segments: Commercial Banking, Branch Banking, Consumer Lending and Investment Advisors. The Bancorp also has a 49% interest in Vantiv Holding, LLC."
+  },
+  "PH": {
+    "id": "PH",
+    "name": "Parker-Hannifin Corporation  ",
+    "desc": "Parker-Hannifin Corporation (Parker) is a full-line diversified manufacturer of motion and control technologies and systems, including fluid power systems, electromechanical controls and related components. The Company also is a worldwide producer of fluid purification, fluid and fuel control, process instrumentation, air conditioning, refrigeration, electromagnetic shielding and thermal management products and systems. The Company's motion and control technologies and systems are used in the products of its three business segments: Industrial, Aerospace, and Climate & Industrial Controls. In July 2012, the Company acquired Olaer Group. In July 2012, the Company acquired the filtration business of John Fowler (India) Private Limited. In July 2012, the Company acquired the hydraulics manufacturing division of PIX Transmissions Ltd. In July 2012, it acquired Kittiwake Developments Limited. In November 2012, The Sterling Group sold Velcon Filters, LLC to the Company."
+  },
+  "EMR": {
+    "id": "EMR",
+    "name": "Emerson Electric Co.  ",
+    "desc": "Emerson Electric Co. (Emerson) is a diversified global technology company. The Company is engaged in designing and supplying products and technology, and delivering engineering services and solutions in a range of industrial, commercial and consumer markets globally. The Company operates in five business segments: Process Management, Industrial Automation, Network Power, Commercial and Residential Solutions, and Climate Technologies. The Company's production operations are electronics assembly, metal stamping, forming, casting, machining, welding, plating, heat treating, painting and assembly. In May 2014, the Company acquired Management Resources Group, Inc. (MRG), a reliability consulting services firm."
+  },
+  "AEP": {
+    "id": "AEP",
+    "name": "American Electric Power Company Inc  ",
+    "desc": "American Electric Power Company, Inc. (AEP) is a utility holding company that owns, directly or indirectly, all of the outstanding common stock of its public utility subsidiaries and varying percentages of other subsidiaries. The service areas of AEP's public utility subsidiaries cover portions of the states of Arkansas, Indiana, Kentucky, Louisiana, Michigan, Ohio, Oklahoma, Tennessee, Texas, Virginia and West Virginia. The generating and transmission facilities of AEP's public utility subsidiaries are interconnected and their operations are coordinated. Transmission networks are interconnected with distribution facilities in the territories served. On December 31, 2011, Columbus Southern Power Company (CSPCo) merged with and into Ohio Power Company (OPCo) with OPCo being the surviving entity. In March 2012, the Company's subsidiary, AEP Retail Energy acquired BlueStar Energy Holdings Inc. and its independent retail electric supplier BlueStar Energy Solutions."
+  },
+  "SRE": {
+    "id": "SRE",
+    "name": "Sempra Energy  ",
+    "desc": "Sempra Energy is a holding company. During the year ended December 31, 2011, Sempra Energy's business was organized in five segments consisting of San Diego Gas & Electric Company (SDG&E), Southern California Gas Company (SoCalGas), Sempra Generation, Sempra Pipelines & Storage and Sempra LNG (liquefied natural gas). Sempra Generation, Sempra Pipelines & Storage and Sempra LNG are subsidiaries of Sempra Global. Sempra Global is a holding company for most of its subsidiaries. In September 2013, Sempra Energy's Sempra United States Gas & Power acquired and will develop the Broken Bow 2 wind project in Nebraska."
+  },
+  "WM": {
+    "id": "WM",
+    "name": "Waste Management, Inc.  ",
+    "desc": "Waste Management, Inc. (WM) is a provider of waste management services in North America. WM's subsidiaries provide collection, transfer, recycling, and disposal services. WM is a developer, operator and owner of waste-to-energy and landfill gas-to-energy facilities in the United States. Its customers include residential, commercial, industrial and municipal customers throughout North America. Its segments include Eastern, Midwest, Southern, Western and Wheelabrator Groups. The Oakleaf operations are included in other. The services the Company provides include collection, landfill, transfer, waste-to-energy facilities and independent power production plants, recycling and other services. In January 2013, its subsidiary, WM Recycle America, L.L.C., acquired Greenstar, LLC. Effective August 1, 2013, Waste Management Inc acquired Summit Energy Services, and concurrently, WM acquired Liquid Logistics. Effective August 1, 2013, Waste Management Inc acquired Oak Grove Disposal Co."
+  },
+  "VFC": {
+    "id": "VFC",
+    "name": "VF Corp  ",
+    "desc": "V.F. Corporation (VF) is a global apparel company based in the United States. The Company designs and manufactures or sources from independent contractors a variety of apparel and footwear for all ages, including jeanswear, outerwear, footwear, packs, luggage, sportswear, and occupational and performance apparel. Products are marketed primarily under VF-owned brand names. It is a diversified apparel company across brands, product categories, channels of distribution and geographies. These products are marketed to consumers shopping in specialty stores, upscale and traditional department stores, national chains and mass merchants. These groupings of businesses are called coalitions and consist of the following: Outdoor & Action Sports, Jeanswear, Imagewear, Sportswear and Contemporary Brands. On April 30, 2012, the Company sold its 80% ownership in John Varvatos Enterprises, Inc."
+  },
+  "D": {
+    "id": "D",
+    "name": "Dominion Resources, Inc.  ",
+    "desc": "Dominion Resources, Inc. (Dominion) is a producer and transporter of energy. The Company is a provider of electricity, natural gas and related services to customers primarily in the eastern region of the United States. Dominion's portfolio of assets includes approximately 27,500 megawatts of generating capacity, 6,300 miles of electric transmission lines, 56,900 miles of electric distribution lines, 11,000 miles of natural gas transmission, gathering and storage pipeline and 21,800 miles of gas distribution pipeline, exclusive of service lines of two inches in diameter or less. Dominion also operates one of the underground natural gas storage systems, with approximately 947 billion cubic feet of storage capacity, and serves nearly six million utility and retail energy customers in 15 states. In April 2014, the Company acquired six solar development projects from Recurrent Energy, one of North America's developers of utility scale solar projects."
+  },
+  "DUK": {
+    "id": "DUK",
+    "name": "Duke Energy Corp  ",
+    "desc": "Duke Energy Corporation (Duke Energy) is an energy company. Duke Energy operates in the United States primarily through its direct and indirect wholly owned subsidiaries, Duke Energy Carolinas, LLC (Duke Energy Carolinas), Carolina Power & Light Company d/b/a Progress Energy Carolinas, Inc. (Progress Energy Carolinas), Florida Power Corporation d/b/a Progress Energy Florida, Inc. (Progress Energy Florida), Duke Energy Ohio, Inc. (Duke Energy Ohio), and Duke Energy Indiana, Inc. (Duke Energy Indiana), as well as in Latin America through Duke Energy International, LLC (DEI). Duke Energy's segment includes U.S. Franchised Electric and Gas (USFE&G), Commercial Power and International Energy. In December 2012, the Company's subsidiary acquired CGE Group's Iberoamericana de Energia Ibener S.A. (Ibener) subsidiary in Chile. In June 2013, Duke Energy Corp acquired an undisclosed minority stake in Clean Power Finance Inc."
+  },
+  "CMG": {
+    "id": "CMG",
+    "name": "Chipotle Mexican Grill, Inc.  ",
+    "desc": "Chipotle Mexican Grill, Inc. (Chipotle) operates Chipotle Mexican Grill restaurants. Chipotle Mexican Grill restaurants serve a menu of burritos, tacos, burrito bowls (a burrito without the tortilla) and salads. As of December 31, 2012, the Company operated 1,410 restaurants, including Chipotle restaurants throughout the United States, as well as five in Canada, five in London, England, and one in Paris, France, and also one ShopHouse Southeast Asian Kitchen, a restaurant in Washington, D.C. Chipotle categorizes its restaurants as either end-caps (at the end of a line of retail outlets), in-lines (in a line of retail outlets), free-standing or other. As of December 31, 2012, of its restaurants in operation, the Company had 258 free-standing units, 861 end-cap locations, 233 in-line locations and 58 other. The average restaurant size is about 2,535 square feet and seats about 56 people. Most of its restaurants also feature outdoor patio space."
+  },
+  "REGN": {
+    "id": "REGN",
+    "name": "Regeneron Pharmaceuticals Inc  ",
+    "desc": "Regeneron Pharmaceuticals, Inc. (Regeneron) is an integrated biopharmaceutical company, which discovers, invents, develops, manufactures, and commercializes medicines for the treatment of serious medical conditions. As of December 31, 2011, the Company had two marketed products: EYLEA (aflibercept) Injection and ARCALYST (rilonacept) Injection for Subcutaneous Use. As of December 31, 2011, the Company had 13 product candidates in clinical development. Its Trap-based, late-stage programs are EYLEA, which is being developed for the treatment of additional serious eye diseases; ZALTRAP (aflibercept), known in the scientific literature as vascular endothelial growth factor (VEGF) trap, which is being developed in oncology in collaboration with Sanofi; and ARCALYST, which is being developed for the prevention of gout flares in patients initiating uric acid-lowering treatment."
+  },
+  "LVS": {
+    "id": "LVS",
+    "name": "Las Vegas Sands Corp.  ",
+    "desc": "Las Vegas Sands Corp. is a developer of destination properties (integrated resorts) that feature accommodations, gaming, entertainment and retail, convention and exhibition facilities, celebrity chef restaurants and other amenities. The Company owns and operates integrated resorts in Asia and the United States. The Company also offers players club loyalty programs at its properties, which provide access to rewards, privileges and members-only events. The Company's properties in the United States include The Venetian Resort Hotel Casino (The Venetian Las Vegas) and The Palazzo Resort Hotel Casino (The Palazzo), Five-Diamond luxury resorts on the Las Vegas Strip, as well as the Sands Expo and Convention Center (the Sands Expo Center) in Las Vegas, Nevada and the Sands Casino Resort Bethlehem (the Sands Bethlehem) in Bethlehem, Pennsylvania. The Company's principal operating and developmental activities occur in three geographic areas: Macao, Singapore and the United States."
+  },
+  "ROK": {
+    "id": "ROK",
+    "name": "Rockwell Automation  ",
+    "desc": "Rockwell Automation, Inc. (Rockwell Automation) is a provider of industrial automation power, control and information solutions that help manufacturers achieve a competitive advantage for their businesses. The Company operates in two segments: Architecture & Software and controls Products & Solutions. In the United States, Canada and certain other countries, the Company sells primarily through the independent distributors in conjunction with its direct sales force. In the remaining countries, the Company sells through a combination of its direct sales force."
+  },
+  "BRKB": {
+    "id": "BRKB",
+    "name": "Finance",
+    "desc": ""
+  },
+  "MA": {
+    "id": "MA",
+    "name": "Mastercard Inc  ",
+    "desc": "MasterCard Incorporated, is a technology company in the global payments industry. The Company connects consumers, financial institutions, merchants, governments and businesses worldwide, enabling them to use electronic forms of payment instead of cash and checks. It facilitates the processing of payment transactions, including authorization, clearing and settlement, and deliver related products and services. The Company's family of brands includes MasterCard, Maestro and Cirrus. It also provides offerings, such as loyalty and reward programs, information services and consulting. It provides transaction processing and a range of payment-related products and services to enable the design, packaging and implementation of its products and programs. Effective July 1, 2014, MasterCard Inc acquired Pinpoint Pty Ltd, a Sydney-based of loyalty and reward programs."
+  },
+  "NMPAX": {
+    "id": "NMPAX",
+    "name": "Columbia Mid Cap Index Fund Class Z",
+    "desc": ""
+  },
+  "FAST": {
+    "id": "FAST",
+    "name": "Fastenal Company  ",
+    "desc": "Fastenal Company is engaged in selling industrial and construction supplies in a wholesale and retail fashion. The industrial and construction supplies are grouped into eleven product lines. The Company distributes the supplies through a network of approximately 2,600 company owned stores. Most of its customers are in the manufacturing and non-residential construction markets. The manufacturing market includes both original equipment manufacturers (OEM) and maintenance and repair operations (MRO). The non-residential construction market includes general, electrical, plumbing, sheet metal, and road contractors. Other users of its product include farmers, truckers, railroads, mining companies, federal, state, and local governmental entities, schools, and certain retail trades. Geographically, its stores and customers are primarily located in North America. As of December 31, 2011, the Company had 2,585 store locations."
+  },
+  "PCYC": {
+    "id": "PCYC",
+    "name": "Pharmacyclics, Inc.  ",
+    "desc": "Pharmacyclics, Inc. is a clinical-stage biopharmaceutical company focused on developing and commercializing small-molecule drugs for the treatment of cancer and immune mediated diseases. The Company's clinical development and product candidates are small-molecule enzyme inhibitors designed to target biochemical pathways involved in human diseases. As of June 30, 2011, it had three drug candidates under clinical development and a number of preclinical lead molecules. This includes an inhibitor of Bruton's tyrosine kinase (Btk) (PCI-32765) in Phase II studies in hematologic malignancies; a Btk inhibitor lead optimization program targeting autoimmune indications, an inhibitor of Factor VIIa (PCI-27483) in a Phase II clinical trial in pancreatic cancer, and a histone deacetylase (HDAC) inhibitor (PCI-24781) in Phase I and II clinical trials in solid tumors and hematological malignancies as of June 30, 2012."
+  },
+  "RHT": {
+    "id": "RHT",
+    "name": "Red Hat Inc  ",
+    "desc": "Red Hat, Inc. (Red Hat) is a global provider of open source software solutions, using a community-powered approach to develop and offer operating system, middleware, virtualization, storage and cloud technologies. The Company offerings include Red Hat Enterprise Linux, Red Hat JBoss Middleware, Red Hat Enterprise Virtualization and Red Hat Storage Server. Red Hat Enterprise Linux is an operating system, which runs on a range of hardware, including mainframes, servers and work stations. Red Hat JBoss Middleware is a range of technologies used for developing, deploying and managing distributed applications. Red Hat Enterprise Virtualization includes standalone virtualization functionality and management tools for both server and desktop deployments. Red Hat Storage Server is software, which enables users to treat storage as a virtualized resource. Effective May 1, 2014, the Company acquired Inktank Storage Inc."
+  },
+  "COG": {
+    "id": "COG",
+    "name": "Cabot Oil & Gas Corporation  ",
+    "desc": "Cabot Oil & Gas Corporation is an independent oil and gas company engaged in the development, exploitation and exploration of oil and gas properties. The Company's exploration, development and production operations are primarily concentrated in three plays: the Marcellus Shale in Pennsylvania, the Eagle Ford in south Texas and the Marmaton oil play in Oklahoma. The Company also has non-core operations in various other unconventional and conventional plays throughout the continental United States. The Company's assets are concentrated in areas with hydrocarbon resources, which are conducive to multi-well, repeatable drilling programs. In December 2012, the Company sold certain proved oil and gas properties located in south Texas. In June 2012, the Company sold a 35% non-operated working interest associated with certain of its Pearsall Shale undeveloped leaseholds in south Texas."
+  },
+  "FTI": {
+    "id": "FTI",
+    "name": "FMC Technologies, Inc.  ",
+    "desc": "FMC Technologies, Inc. designs, manufactures and services systems and products, including subsea production and processing systems, surface wellhead production systems, high pressure fluid control equipment, measurement solutions and marine loading systems for the energy industry. Its segments are Subsea Technologies, which designs and manufactures products and systems and provides services used by oil and gas companies; Surface Technologies, which designs and manufactures products and systems and provides services used by oil and gas companies involved in land and offshore exploration and production of crude oil and natural gas, and Energy Infrastructure, which offers Measurement Solutions and Loading Systems. In January 2013, it purchased a 173-acre parcel of land in Houston, Texas. In May 2014, the Company completed divestiture of its material handling products business to Syntron Material Handling, LLC."
+  },
+  "SPLK": {
+    "id": "SPLK",
+    "name": "Splunk Inc  ",
+    "desc": "Splunk Inc. provides software products. The Company's products enable users to collect, index, and search, explore, monitor and analyze data regardless of format or source. The Company's products address large and diverse data sets commonly referred to as big data and are specifically tailored for machine-generated data. Machine data is produced by nearly every software application and electronic device in an organization and contains a definitive, time-stamped record of various activities, such as transactions, customer and user activities and security threats. The Company's products are intended to help users in various roles, including information technology (IT), cyber security and business professionals, quickly analyze their machine data and achieve real-time visibility into and intelligence about their organization's operations."
+  },
+  "VO": {
+    "id": "VO",
+    "name": "Vanguard Mid-Cap ETF  ",
+    "desc": "Vanguard Mid-Cap ETF is an exchange-traded fund. Vanguard Mid-Cap Index Fund seeks to track the performance of the MSCI US Mid Cap 450 Index representing medium-size United States firms. The portfolio holds all stocks in the same capitalization weighting as the index. The Vanguard Group, Inc., through its Quantitative Equity Group, serves as the investment advisor of the Fund."
+  },
+  "TSCO": {
+    "id": "TSCO",
+    "name": "Tractor Supply Company  ",
+    "desc": "Tractor Supply Company is an operator of retail farm and ranch stores in the United States. It operates retail stores under the names Tractor Supply Company and Del's Feed & Farm Supply and operates a Website under the name TractorSupply.com. At December 28, 2013, it operated 1,276 retail farm and ranch stores in 48 states. Its stores are focused on supplying the lifestyle needs of recreational farmers and ranchers and others who enjoy the rural lifestyle, as well as tradesmen and small businesses. Its stores are located in towns outlying major metropolitan markets and in rural communities. It offers a comprehensive selection of merchandise, which include equine, livestock, pet and small animal products, including items necessary for their health, care and growth; hardware, truck, towing and tool products; seasonal products, including lawn and garden items, power equipment, gifts and toys; maintenance products for agricultural and rural use, and work/recreational clothing and footwear."
+  },
+  "DPS": {
+    "id": "DPS",
+    "name": "Dr Pepper Snapple Group Inc.  ",
+    "desc": "Dr Pepper Snapple Group, Inc. (DPS) is an integrated brand owner, manufacturer and distributor of non-alcoholic beverages in the United States, Canada and Mexico with a diverse portfolio of flavored (non-cola) carbonated soft drinks (CSDs) and non-carbonated beverages (NCBs), including ready-to-drink teas, juices, juice drinks and mixers. The Company operates in three segments: Beverage Concentrates, Packaged Beverages and Latin America Beverages. The Company primarily serves two groups of customers: bottlers and distributors and retailers. As of December 31, 2011, it operated 20 manufacturing facilities across the United States and Mexico, excluding its manufacturing facility for its joint venture with Acqua Minerale San Benedetto. Effective March 1, 2013, it acquired Dr. Pepper/7-UP Bottling Co of the West, a producer and wholesaler of bottled soft drinks."
+  },
+  "MLPI": {
+    "id": "MLPI",
+    "name": "UBS AG ETN  ",
+    "desc": ""
+  },
+  "TAP": {
+    "id": "TAP",
+    "name": "Molson Coors Brewing Company  ",
+    "desc": "Molson Coors Brewing Company (MCBC) is a holding company. The Company operates in five business segments: Canada, the U.S., Central Europe, the U.K., and Molson Coors International (MCI). The Company is a brewer and has a portfolio of owned and partner brands, including signature brands Coors Light, Molson Canadian, Carling and Staropramen, as well as craft and specialty beers such as Blue Moon, Creemore Springs, Cobra and Doom Bar. Its other subsidiaries include: Molson Coors Canada (MCC), operating in Canada; MillerCoors LLC (MillerCoors) operating in the United States (U.S.); Molson Coors Brewing Company (UK) Limited (MCBC-UK, operating in the United Kingdom (U.K.) and the Republic of Ireland; Molson Coors International (MCI) operating in various other countries; and its other non-operating subsidiaries. In June 15, 2012, the Company acquired StarBev. In January 2013, it acquired Ireland's Franciscan Well brewery."
+  },
+  "BBBY": {
+    "id": "BBBY",
+    "name": "Bed Bath & Beyond Inc.  ",
+    "desc": "Bed Bath & Beyond Inc. is a chain of retail stores, operating under the names Bed Bath & Beyond (BBB), Christmas Tree Shops (CTS), Harmon and Harmon Face Values (Harmon), buybuy BABY and World Market or Cost Plus World Market (World Market). In addition, it is a partner in a joint venture, which operates three stores in the Mexico City market under the name Bed Bath & Beyond. The Company sells a range of domestics merchandise and home furnishings. Domestics merchandise includes categories, such as bed linens and related items, bath items and kitchen textiles. Home furnishings include categories, such as kitchen and tabletop items, fine tabletop, basic housewares and general home. During fiscal year ended March 2, 2013 (fiscal 2012), the Company opened a total of 38 stores, including 12 BBB stores throughout the United States and Canada, five CTS stores, one Harmon store and 18 buybuy BABY stores, and six World Market stores throughout the United States and closed one BBB store."
+  },
+  "DOV": {
+    "id": "DOV",
+    "name": "Dover Corp  ",
+    "desc": "Dover Corporation (Dover) manufactures a range of specialized products and components and also offers related services and consumables. The Company operates in four segments: Communication Technologies, Energy, Engineered Systems, and Printing & Identification. In July 2014, the Company announced that it has completed the sale of DEK Printing Machines unit (DEK). In July 2014, Dover acquired The WellMark Company. In August 2014, the Company acquired Liquip International."
+  },
+  "KLAC": {
+    "id": "KLAC",
+    "name": "KLA-Tencor Corporation  ",
+    "desc": "KLA-Tencor Corporation (KLA-Tencor) is engaged in the design, manufacture and marketing of process control and yield management solutions for the semiconductor and related nanoelectronics industries. KLA-Tencor's offerings include the Chip Manufacturing, Wafer Manufacturing, Reticle Manufacturing, Complementary Metal-Oxide-Semiconductor (CMOS) Image Sensors Manufacturing, Solar Manufacturing, light emitting diode (LED) Manufacturing, Data Storage Media/Head Manufacturing, Microelectromechanical Systems (MEMS) Manufacturing, and General Purpose/Lab Applications. It also provides refurbished KLA-Tencor tools as part of its K-T Certified program for customers manufacturing larger design-rule devices, as well as service and support for its products. The Company's products are used in a number of other industries, including the LED, data storage and photovoltaic industries, as well as general materials research."
+  },
+  "TMK": {
+    "id": "TMK",
+    "name": "Torchmark Corporation  ",
+    "desc": "Torchmark Corporation is an insurance holding company. The Company is financial services holding company whose affiliate Companies market life insurance and supplemental health insurance to middle-income Americans. The Company operates in three segments: life insurance, health insurance, and annuities. Life insurance products include traditional and interest-sensitive whole life insurance, as well as term life insurance. Health products are guaranteed-renewable and include Medicare Supplement, Medicare Part D, cancer, accident, long-term care, and limited-benefit hospital and surgical coverage's. Annuities include fixed-benefit contracts. The Company's primary subsidiaries are American Income Life Insurance Company (American Income), Liberty National Life Insurance Company (Liberty), Globe Life And Accident Insurance Company (Globe), United American Insurance Company (United American), and Family Heritage Life Insurance Company of America (Family Heritage)."
+  },
+  "HBI": {
+    "id": "HBI",
+    "name": "Hanesbrands Inc.  ",
+    "desc": "Hanesbrands Inc. is a consumer goods company with a portfolio of apparel brands, including Hanes, Champion, Bali, Playtex, Just My Size, L'eggs, barely there, Wonderbra, Gear for Sports, Stedman, Zorba, Rinbros, Sol y Oro, Outer Banks and Duofold. The Company designs, manufactures, sources and sells a range of basic apparel, such as T-shirts, bras, panties, men's underwear, kids' underwear, casualwear, activewear, socks and hosiery. The Company operates in five segments: Innerwear, Outerwear, Hosiery, Direct to Consumer and International. The Hanes brand covers all of its product categories, including men's underwear, kids' underwear, bras, panties, socks, T-shirts, fleece and sheer hosiery. Bali is the brand within its portfolio, offering a range of bras, panties and shapewear sold in the department store channel. In October 2013, the Company announced that it has closed the acquisition of Maidenform Brands, Inc. In September 2014, the Company acquired DBApparel."
+  },
+  "NEM": {
+    "id": "NEM",
+    "name": "Newmont Mining Corp  ",
+    "desc": "Newmont Mining Corporation is primarily a gold producer with operations and/or assets in the United States, Australia, Peru, Indonesia, Ghana, New Zealand and Mexico. As of December 31, 2012, Newmont had attributable and probable gold reserves of 99.2 million ounces and an aggregate land position of approximately 29,000 square miles (75,000 square kilometers). Newmont is also engaged in the production of copper, principally through Batu Hijau in Indonesia and Boddington in Australia. Its operating segments include North America, South America, Asia Pacific and Africa. In February 2014, Klondex Mines Ltd closed the acquisition of the Midas mine and related ore milling facility located in the State of Nevada from a subsidiary of Newmont Mining Corp. In May 2014, the Company sold its 5.4% holding in Paladin. In July 2014, Northern Star Resources Limited completed the acquisition of the Jundee Gold Mine from Newmont Mining Corporation."
+  },
+  "CMS": {
+    "id": "CMS",
+    "name": "CMS Energy Corporation  ",
+    "desc": "CMS Energy Corporation (CMS Energy) is an energy company operating primarily in Michigan. CMS Energy is the parent holding company of several subsidiaries, including Consumers Energy Company (Consumers) and CMS Enterprises Company (CMS Enterprises). Consumers is an electric and gas utility, and CMS Enterprises, primarily a domestic independent power producer. Consumers serves individuals and businesses operating in the alternative energy, automotive, chemical, metal, and food products industries, as well as a diversified group of other industries. CMS Enterprises, through its subsidiaries and equity investments, is engaged primarily in independent power production and owns power generation facilities fueled mostly by natural gas and biomass. CMS Energy operates in three business segments: electric utility, gas utility and enterprises, its non-utility operations and investments."
+  },
+  "WEC": {
+    "id": "WEC",
+    "name": "Wisconsin Energy Corp  ",
+    "desc": "Wisconsin Energy Corporation is a diversified holding company. The Company operates primarily through two segments: a utility energy segment and a non-utility energy segment. Its primary subsidiaries are Wisconsin Electric Power Company (Wisconsin Electric), Wisconsin Gas LLC (Wisconsin Gas) and W.E. Power, LLC (We Power). Its utility energy segment consists of Wisconsin Electric and Wisconsin Gas, operating together under the trade name of We Energies. Its non-utility energy segment derives its revenues primarily from the ownership of electric power generating facilities for long-term lease to Wisconsin Electric. Its non-utility energy segment derives its revenues primarily from the ownership of electric power generating facilities for long-term lease to Wisconsin Electric. As of December 31, 2012, the Company have a 26.2% interest in ATC."
+  },
+  "RNR": {
+    "id": "RNR",
+    "name": "RenaissanceRe Holdings Ltd.  ",
+    "desc": "RenaissanceRe Holdings Ltd. (RenaissanceRe) is a global provider of reinsurance and insurance coverages and related services. The Company's segments include Reinsurance, which includes catastrophe reinsurance, specialty reinsurance and certain property catastrophe and specialty joint ventures and Lloyd's, which includes reinsurance and insurance business written through Syndicate 1458.In addition, the Company's Other category primarily reflects its strategic investments; weather and energy risk management operations; investments unit; corporate expenses, capital servicing costs and noncontrolling interests; results of its discontinued operations. The Company's products include property catastrophe reinsurance, which it primarily writes through its principal operating subsidiary Renaissance Reinsurance, Syndicate 1458, and joint ventures, principally DaVinci and Top Layer Re."
+  },
+  "CNQR": {
+    "id": "CNQR",
+    "name": "Concur Technologies, Inc.  ",
+    "desc": "Concur Technologies, Inc. (Concur) is a provider of integrated travel and expense management solutions for companies of all industries, sizes, and geographies. The Company delivers cloud computing software solutions. It provides cloud computing software solutions primarily on a subscription basis. The Company's easy-to-use cloud computing solutions help companies and their employees control costs, save time, and boost productivity by streamlining the expense management, travel procurement, itinerary management, and invoice management processes. By capturing and reporting on activity throughout the travel and expense management process, its solutions provide detailed information to help its customers effectively negotiate with vendors, create budgets, and manage compliance. As of September 30, 2013, the Company had over 20,000 customers in over 150 countries."
+  },
+  "LUK": {
+    "id": "LUK",
+    "name": "Leucadia National Corp.  ",
+    "desc": "Leucadia National Corporation is a diversified holding company. Leucadia's largest business is Jefferies, a global, full service investment banking firm. Leucadia also owns and holds investments in a range of other businesses, including beef processing, manufacturing, telecommunications, gaming, real estate, and energy."
+  },
+  "IFF": {
+    "id": "IFF",
+    "name": "International Flavors & Fragrances Inc  ",
+    "desc": "International Flavors & Fragrances Inc. (IFF) creates, manufactures and supplies flavors and fragrances for the food, beverage, personal care and household products industries. The Company operates in two business segments: Flavors and Fragrances. Its Flavors business includes four categories of products: Savory, Beverages, Sweet, pharmaceutical and oral care (Sweet), and Dairy. Its Fragrances business consists of Fragrance Compounds and Fragrance Ingredients. The Company has 29 manufacturing sites around the world that support more than 36,000 products. Its manufacturing facilities are located in the United States, the Netherlands, Spain, Great Britain, Argentina, Brazil, Mexico, Australia, China, India, Indonesia, Japan and Singapore. In January 2014, International Flavors & Fragrances Inc. completed the acquisition of Aromor Flavors and Fragrances Ltd."
+  },
+  "NMSCX": {
+    "id": "NMSCX",
+    "name": "Columbia Small Cap Index Fund Class Z",
+    "desc": ""
+  },
+  "EFSC": {
+    "id": "EFSC",
+    "name": "Enterprise Financial Services Corp  ",
+    "desc": "Enterprise Financial Services Corp (Enterprise) is a financial holding company. Enterprise is the holding company for a service banking subsidiary, Enterprise Bank & Trust (the Bank), offering banking and wealth management services to individuals and business customers located in the St. Louis, Kansas City and Phoenix metropolitan markets. The Company's banking line of business offers a range of business and personal banking services. Lending services include commercial, commercial real estate, financial and industrial development, real estate construction and development, residential real estate, and consumer loans. On January 20, 2010, the Company sold its life insurance subsidiary, Millennium Brokerage Group, LLC (Millennium). On January 7, 2011, the Bank acquired certain assets and assumed certain liabilities of Legacy Bank (Legacy). In May 2013, the Bank acquired the operating assets of Gorman & Gorman Home Loans, a division of F&M Bank and Trust Company."
+  },
+  "VB": {
+    "id": "VB",
+    "name": "Vanguard Index Funds  ",
+    "desc": "Vanguard Small-Cap ETF (the Fund) is an exchange-traded share class of Vanguard Small-Cap Index Fund, which employs a passive management or indexing investment approach designed to track the performance of the MSCI US Small Cap 1750 Index (the Index). The Index is a diversified index of stocks of smaller United States companies. The Fund attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the Index, holding each stock in approximately the same proportion as its weighting in the Index. The Fund's investment advisor is The Vanguard Group, Inc."
+  },
+  "SFL": {
+    "id": "SFL",
+    "name": "Ship Finance International Limited  ",
+    "desc": "Ship Finance International Limited (Ship Finance) is engaged primarily in the ownership and operation of vessels and offshore related assets, and also involved in the charter, purchase and sale of assets. The Company operates through subsidiaries, partnerships and branches located in Bermuda, Cyprus, Malta, Liberia, Norway, Singapore, the United Kingdom and the Marshall Islands. As of April 12, 2013, its assets consisted of 24 oil tankers, 12 drybulk carriers, 11 container vessels (including two chartered-in 13,800 twenty-foot equivalent unit (TEU) vessels), two car carriers, one jack-up drilling rig, three ultra-deepwater drilling units, six offshore supply vessels and two chemical tankers. Its oil tankers and chemical tankers are all double-hull vessels."
+  },
+  "ESGR": {
+    "id": "ESGR",
+    "name": "Enstar Group Ltd.  ",
+    "desc": "Enstar Group Limited (Enstar) acquires and manages insurance and reinsurance companies in run-off and portfolios of insurance and reinsurance business in run-off, and provides management, consultancy and other services to the insurance and reinsurance industry. Enstar derives its net earnings from the ownership and management of these companies and portfolios of business in run-off primarily by settling insurance and reinsurance claims below the acquired value of loss reserves and from returns on the portfolio of investments retained to pay future claims. In addition, the Company provides management and consultancy services, claims inspection services and reinsurance collection services to its affiliates and third-party clients for both fixed and success-based fees. In April 2014, Enstar Group Ltd and Stone Point Capital LLC acquired Torus Insurance Holdings Ltd."
+  },
+  "VEA": {
+    "id": "VEA",
+    "name": "Vanguard MSCI EAFE ETF  ",
+    "desc": "Vanguard FTSE Developed Markets ETF, formerly Vanguard MSCI EAFE ETF, seeks to track the investment performance of the Morgan Stanley Capital International (MSCI) Europe, Australasia, Far East (EAFE) Index (the MSCI EAFE Index). The Fund employs an indexing approach to provide exposure to equity markets in Europe and the Pacific region. The MSCI EAFE Index represents primarily large-capitalization companies in developed equity markets throughout Europe and the Pacific region. The MSCI EAFE Index includes exposure to more than 1,100 securities in 21 countries. The Fund remains 100% invested. The Fund's investment advisor is The Vanguard Group, Inc."
+  },
+  "ACFFX": {
+    "id": "ACFFX",
+    "name": "Columbia Acorn International Select Class Z",
+    "desc": ""
+  },
+  "ARMH": {
+    "id": "ARMH",
+    "name": "ARM Holdings plc (ADR)  ",
+    "desc": "ARM Holdings plc (ARM) designs microprocessors, physical intellectual property (IP) and related technology and software, and sells development tools. As of December 31, 2012, the Company operated in three business segments: the Processor Division (PD), the Physical IP Division (PIPD) and the System Design Division (SDD). ARM licenses and sells its technology and products to international electronics companies, which in turn manufacture, markets and sells microprocessors, application-specific integrated circuits (ASICs) and application-specific standard processors (ASSPs) based on ARM's technology to systems companies for incorporation into a range of end products. In August 2013, the Company announced that it has acquired Sensinode Oy, a provider of software technology for the Internet of things (IoT). In December 2013, ARM Holdings PLC acquired Geomerics. In August 2014, the Company acquired Duolog Technologies."
+  },
+  "RDSA": {
+    "id": "RDSA",
+    "name": "Royal Dutch Shell Plc  ",
+    "desc": "Royal Dutch Shell plc (Shell) is an independent oil and gas company, based in the United Kingdom. It operates in three segments: Upstream, Downstream and Corporate. Upstream combines the operating segments Upstream International and Upstream Americas, which are engaged in searching for and recovering crude oil and natural gas, the liquefaction and transportation of gas, the extraction of bitumen from oil sands and converting it into synthetic crude oil, and wind energy. Downstream segment is engaged in manufacturing, distribution and marketing activities for oil products and chemicals, alternative energy (excluding wind), and carbon dioxide (CO2) management. Corporate segment represents the key support functions, such as Shell's holdings, treasury and self-insurance organization. In January 2014, Royal Dutch Shell plc completed the acquisition of Repsol S.A.'s liquefied natural gas (LNG) portfolio outside North America. In June 2014, Shell sold 19% in Woodside Petroleum Limited."
+  },
+  "ABX": {
+    "id": "ABX",
+    "name": "Barrick Gold Corporation (USA)  ",
+    "desc": "Barrick Gold Corporation (Barrick) is engaged in the production and sale of gold, as well as related activities, such as exploration and mine development. Barrick also produces copper, principally from the Zaldivar and Lumwana mines and holds other interests, including a nickel development project located in Africa. Barrick's business is organized into seven primary operating segments: four regional gold businesses, a global copper business unit, an oil and gas business, and a capital projects group. Its producing gold mines are concentrated in three regional business units (RBU): North America, South America, and Australia Pacific. Its Copper business unit contains producing copper mines located in Chile and Zambia. Barrick's North American RBU consists of its Cortez, and 60% interest in the new Pueblo Viejo mine. In October 2013, Barrick Gold Corporation completed the divestiture of its Yilgarn South assets (Yilgarn South) in Western Australia to Gold Fields Limited."
+  },
+  "RHHBY": {
+    "id": "RHHBY",
+    "name": "Roche Holding Ltd. (ADR)  ",
+    "desc": "Roche Holding AG is a Swiss pharmaceuticals and diagnostics holding company. It belongs to the Roche Group that operates through subsidiaries and associated companies around the world. It discovers, develops and provides diagnostic and therapeutic products and services from early detection and prevention of diseases to diagnosis, treatment and treatment monitoring. The Company has two divisions: Pharmaceuticals and Diagnostics. Pharmaceuticals are divided into two sub-divisions: Roche Pharmaceuticals and Chugai. It operates in the United States, Western Europe, Japan, CEMAI (Central and Eastern Europe, Middle East, Africa, Central Asia, Indian Subcontinent), Latin America, Asia-Pacific and Other regions. Diagnostics include five business areas: Applied Science, Diabetes Care, Molecular Diagnostics, Tissue Diagnosis and Professional Diagnostics. It operates in five geographical regions: Europe, Middle East and Africa (EMEA); North America; Asia-Pacific; Latin America, and Japan."
+  },
+  "EFA": {
+    "id": "EFA",
+    "name": "iShares MSCI EAFE Index Fund (ETF)  ",
+    "desc": "iShares MSCI EAFE ETF, formerly iShares MSCI EAFE Index Fund (the Fund), is an exchange-traded fund. The Fund's investment objective is to seek investment results that correspond to the price and yield performance of its underlying index, MSCI EAFE Index (the Index). The Index has been developed by MSCI Inc. as an equity benchmark for its international stock performance. The Index includes stocks from Europe, Australasia and the Far East. The Fund invests in a representative sample of securities included in the Index that collectively has an investment profile similar to the Index. Due to the use of representative sampling, the Fund may or may not hold all of the securities that are included in the Index. The Fund's investment advisor is BlackRock Fund Advisors."
+  },
+  "LYB": {
+    "id": "LYB",
+    "name": "LyondellBasell Industries NV  ",
+    "desc": "LyondellBasell Industries N.V. is an independent chemical company. The Company's chemicals businesses consist of processing plants that convert volumes of liquid and gaseous hydrocarbon feedstock into plastic resins and other chemicals. Its Houston refinery processes crude oil into fuels, such as gasoline, diesel and jet fuel. Its segments include Olefins and Polyolefins-Americas (O&P-Americas), Olefins and Polyolefins-Europe, Asia, International (O&P-EAI), Intermediates and Derivatives (I&D), Refining & Oxyfuels and Technology. It's O&P-Americas and O&P-EAI products include olefins, polyolefins and polypropylene (PP) compounds. I&D products include acetyls and ethylene derivatives. Refining & Oxyfuels include gasoline and alkylate. Technology include PP process technologies land polyolefin catalysts. On January 4, 2012, refinery operations were suspended at its Berre refinery in France."
+  },
+  "GSK": {
+    "id": "GSK",
+    "name": "GlaxoSmithKline plc (ADR)  ",
+    "desc": "GlaxoSmithKline plc (GSK) is global healthcare group, which is engaged in the creation and discovery, development, manufacture and marketing of pharmaceutical products, including vaccines, over-the-counter (OTC) medicines and health-related consumer products. GSK's principal pharmaceutical products include medicines in therapeutic areas: respiratory, anti-virals, central nervous system, cardiovascular and urogenital, metabolic, antibacterials, oncology and emesis, dermatology, rare diseases, immuno-inflammation, vaccines and human immunodeficiency virus (HIV). The Company operates in three primary areas of business: Pharmaceuticals, Vaccines and Consumer Healthcare. On January 30, 2013, GSK acquired additional 29.3% interest in GlaxoSmithKline Consumer Healthcare Ltd. In May 2013, GlaxoSmithKline PLC acquired Okairos AG. In December 2013, Suntory Beverage & Food Ltd fully acquired Lucozade Ribena Suntory Limited from GlaxoSmithKline plc."
+  },
+  "OIGYX": {
+    "id": "OIGYX",
+    "name": "Oppenheimer International Growth Fund Class Y",
+    "desc": ""
+  },
+  "BP": {
+    "id": "BP",
+    "name": "BP plc (ADR)  ",
+    "desc": "BP p.l.c. (BP) is an integrated oil and gas company. The Company provides its customers with fuel for transportation, energy for heat and light, lubricants and the petrochemicals products used to make everyday items as diverse as paints, clothes and packaging. The Company operates in two business segments: Exploration and Production, and Refining and Marketing. Its Exploration and Production segment is responsible for its activities in oil and natural gas exploration, field development and production; midstream transportation, storage and processing, and the marketing and trading of natural gas, including liquefied natural gas, together with power and natural gas liquids. Its Refining and Marketing segment is responsible for the refining, manufacturing, marketing, transportation, and supply and trading of crude oil, petroleum, petrochemicals products and related services to wholesale and retail customers. In July 2014, Rubis SCA acquired BP Plc's LPG business in Portugal."
+  },
+  "NVO": {
+    "id": "NVO",
+    "name": "Novo Nordisk A/S (ADR)  ",
+    "desc": "Novo Nordisk A/S is a healthcare company. The Company is engaged in the discovery, development, manufacturing and marketing of pharmaceutical products. It is engaged in diabetes care. It has a range of diabetes product portfolio, including a portfolio of modern insulins and the first human once-daily GLP-1 analog. In addition, it has is engaged in areas, such as haemophilia, growth hormone therapy and hormone replacement therapy. It manufactures and markets pharmaceutical products and services to patients, the medical profession and society. The Company operates in two segments: diabetes care and biopharmaceuticals. In February 2014, Innate Pharma has acquired full development and commercialization rights to the anti-NKG2A antibody, a immune checkpoint inhibitor ready for Phase II development in oncology from Novo Nordisk."
+  },
+  "JSSP": {
+    "id": "JSSP",
+    "name": "Jiangsu SOPO Chemical Co.,Ltd  ",
+    "desc": "Jiangsu SOPO Chemical Co. Ltd. is principally engaged in the provision and distribution of chemical products, heat and electric power. The Company's major products are caustic soda, including ultra fine azobisformami-de (ADC) foaming agents, compound ADC foaming agents and ionic membrane caustic soda, as well as calcium hypochlorite, liquid chloride, steam and electric power, among others. The Company distributes its products primarily in domestic market. During the year ended December 31, 2011, the Company produced approximately 111,300 tons of caustic soda, approximately 46,000 tons of ADC foaming agents, 7,899 tons of calcium hypochlorite, and approximately 8,484 tons of liquid chloride."
+  },
+  "ATLNVX": {
+    "id": "ATLNVX",
+    "name": "Finance",
+    "desc": ""
+  },
+  "KU2GR": {
+    "id": "KU2GR",
+    "name": "Finance",
+    "desc": ""
+  },
+  "NZYMBDC": {
+    "id": "NZYMBDC",
+    "name": "Finance",
+    "desc": ""
+  },
+  "OCXCN": {
+    "id": "OCXCN",
+    "name": "Finance",
+    "desc": ""
+  },
+  "VRX": {
+    "id": "VRX",
+    "name": "Valeant Pharmaceuticals Intl Inc  ",
+    "desc": "Valeant Pharmaceuticals International, Inc., formerly Biovail Corporation, is a multinational, specialty pharmaceutical company that develops, manufactures and markets a range of pharmaceutical products. The Company operates in five business segments: U.S. Neurology and Other, U.S. Dermatology, Canada and Australia, Branded Generics - Europe and Branded Generics -Latin America. Within its U.S. Dermatology segment and Branded Generic - Europe segment the Company generates service revenue from contract services in the areas of dermatology and topical medication. In June 2014, Akorn Inc sold its subsidiary, ECR Pharmaceuticals (ECR) to Valeant Pharmaceuticals International, Inc. In July 2014, the Company acquired PreCision Dermatology, Inc."
+  },
+  "CFRVX": {
+    "id": "CFRVX",
+    "name": "Finance",
+    "desc": ""
+  },
+  "ROGVX": {
+    "id": "ROGVX",
+    "name": "Finance",
+    "desc": ""
+  },
+  "BUD": {
+    "id": "BUD",
+    "name": "Anheuser Busch Inbev SA (ADR)  ",
+    "desc": "Anheuser-Busch InBev SA, formerly Anheuser-Busch InBev SA/NV, is a brewing company. The Company produces, markets, distributes and sells a balanced portfolio of approximately 200 beer brands. These include global flagship brands Budweiser, Stella Artois and Beck's; multi-country brands, such as Leffe and Hoegaarden, and many local champions, such as Bud Light, Skol, Brahma, Quilmes, Michelob, Harbin, Sedrin, Klinskoye, Sibirskaya Korona, Chernigivske and Jupiler. The Company also produces and distributes soft drinks, particularly in Latin America. The Company operates in seven segments: North America, Latin America North, Latin America South, Western Europe, Central & Eastern Europe, Asia Pacific and Global Export & Holding Companies. On June 5, 2013, Anheuser Busch Inbev SA AB completed its combination with Grupo Modelo SAB de CV. As a result, it owns approximately 95% of outstanding common shares of Grupo Modelo SAB de CV. In April 2014, it acquired Oriental Brewery."
+  },
+  "DSYFP": {
+    "id": "DSYFP",
+    "name": "Finance",
+    "desc": ""
+  },
+  "RYCEY": {
+    "id": "RYCEY",
+    "name": "Rolls-Royce Holding PLC (ADR)  ",
+    "desc": "Rolls-Royce Holdings plc, formerly Rolls-Royce Group plc is a provider of power systems and services for use on land, at sea and in the air. It operates in four segments: civil aerospace, defense aerospace, marine and energy. The civil aerospace is engaged in development, manufacture, marketing and sales of commercial aero engines and aftermarket services. The defense aerospace is engaged in development, manufacture, marketing and sales of military aero engines and aftermarket services. The marine segment is engaged in development, manufacture, marketing and sales of marine propulsion systems and aftermarket services. The energy segment is engaged in development, manufacture, marketing and sales of power systems for the offshore oil and gas industry and electrical power generation and aftermarket services. In January 2013, Alstom SA acquired Tidal Generation Limited from the Company. Effective August 26, 2104, Rolls-Royce Holdings PLC completes acquisition of Rolls-Royce Power Systems."
+  },
+  "NOBLSP": {
+    "id": "NOBLSP",
+    "name": "Finance",
+    "desc": ""
+  },
+  "GTONA": {
+    "id": "GTONA",
+    "name": "Finance",
+    "desc": ""
+  },
+  "GIVNVX": {
+    "id": "GIVNVX",
+    "name": "Finance",
+    "desc": ""
+  },
+  "ITXSM": {
+    "id": "ITXSM",
+    "name": "Finance",
+    "desc": ""
+  },
+  "SFERIM": {
+    "id": "SFERIM",
+    "name": "Finance",
+    "desc": ""
+  },
+  "RR/LN": {
+    "id": "RR/LN",
+    "name": "Finance",
+    "desc": ""
+  },
+  "DEMIX": {
+    "id": "DEMIX",
+    "name": "Delaware Emerging Markets Fund Institutional Class",
+    "desc": ""
+  },
+  "BIDU": {
+    "id": "BIDU",
+    "name": "Baidu Inc (ADR)  ",
+    "desc": "Baidu, Inc. (Baidu) is a Chinese-language Internet search provider. Baidu serves three types of online participants, which include users, customers and Baidu union members. The Company offers a Chinese-language search platform on its Website Baidu.com. It provides Chinese-language Internet search services to enable users to find relevant information online, including Web pages, news, images, documents and multimedia files, through links provided on its Websites. It designs and delivers its online marketing services primarily on its Baidu.com Website to its online marketing customers. During the year ended December 31, 2011, it had approximately 488,000 active online marketing customers. Its online marketing customers consist of small and medium enterprises (SMEs) throughout China, large domestic companies and Chinese divisions or subsidiaries of large, multinational companies. In May 2013, Baidu Inc announced the acquisition of the online video business of Internet video provider PPS."
+  },
+  "TSM": {
+    "id": "TSM",
+    "name": "Taiwan Semiconductor Mfg. Co. Ltd. (ADR)  ",
+    "desc": "Taiwan Semiconductor Manufacturing Co., Ltd. is principally engaged in the research, development, manufacture and distribution of integrated circuit (IC) related products. The Company operates its businesses in two segments: foundry and other. Its foundry segment engages in the manufacturing, selling, packaging, testing and computer-aided design of integrated circuits and other semiconductor devices, as well as mask making services. Its other segment mainly engage in the research, development, design and provision of system-on-chip (SoC), as well as research, development, design, manufacture and sale of solid state lighting devices and solar energy related technologies and products. Its products and services are applied in computers, communications and consumer electronics, among others."
+  },
+  "VWO": {
+    "id": "VWO",
+    "name": "Vanguard FTSE Emerging Markets ETF  ",
+    "desc": "Vanguard FTSE Emerging Markets ETF, formerly Vanguard MSCI Emerging Markets Fund, is an exchange-traded share class of Vanguard Total Stock Market Index Fund. The Fund's investment objective seeks to track the performance of an index that measures the investment return of stocks issued by companies located in emerging market countries. The Fund focuses investment approach by investing substantially all (normally about 95%) of its assets in the common stocks included in the MSCI Emerging Markets Index. The MSCI Emerging Markets Index includes approximately 820 common stocks of companies located in markets worldwide. The Fund's investment advisor is The Vanguard Group, Inc."
+  },
+  "PPSIX": {
+    "id": "PPSIX",
+    "name": "Principal Preferred Securities Fund Institutional Class",
+    "desc": ""
+  },
+  "CIU": {
+    "id": "CIU",
+    "name": "iShares Lehman Intermdte Credit Bnd(ETF)  ",
+    "desc": "iShares Intermediate Credit Bond ETF, formerly iShares Barclays Intermediate Credit Bond Fund (the Fund), is an exchange-traded fund. The Fund is an exchange traded fund. The Fund seeks results, which correspond to the price and yield performance, before fees and expense, of the investment grade credit sector of the United States bond market as defined by the Barclays U.S. Intermediate Credit Bond Index (the Index). The Index measures the performance of investment grade corporate debt and sovereign, supranational, local authority and non- United States agency bonds, which are the United States dollar denominated and have a remaining maturity of greater than or equal to one year and less than 10 years. The Fund's investments include industrial, financial institution, supranational, utility, agencies, sovereign, financial, local authorities and S-T Securities. BlackRock Fund Advisors acts as investment adviser of the Fund."
+  },
+  "TGBAX": {
+    "id": "TGBAX",
+    "name": "Templeton Global Bond Fund Advisor Class",
+    "desc": ""
+  },
+  "FDAAX": {
+    "id": "FDAAX",
+    "name": "Franklin Floating Rate Daily Access Fund Class Advisor",
+    "desc": ""
+  },
+  "FFRIX": {
+    "id": "FFRIX",
+    "name": "Fidelity Advisor' Floating Rate High Income Fund Institutional Class",
+    "desc": ""
+  },
+  "SJNK": {
+    "id": "SJNK",
+    "name": "SPDR Series Trust  ",
+    "desc": ""
+  },
+  "IVAEX": {
+    "id": "IVAEX",
+    "name": "Ivy Asset Strategy Fund Class I",
+    "desc": ""
+  },
+  "VNQ": {
+    "id": "VNQ",
+    "name": "Vanguard REIT ETF  ",
+    "desc": "Vanguard REIT ETF (the Fund) is an open-end investment company. The Fund invests in stocks issued by real estate investment trusts (REITs), companies that purchase office buildings, hotels, and other real property. It tracks the return of the MSCI US RIT Index, a gauge of real estate stocks. The Vanguard Group, Inc. provides investment advisory services to the Fund."
+  },
+  "RWX": {
+    "id": "RWX",
+    "name": "SPDR Dow Jones Interntnl Real Estate ETF  ",
+    "desc": "SPDR Dow Jones International Real Estate ETF (the Fund), formerly SPDR DJ Wilshire International Real Estate ETF, seeks to closely match the returns and characteristics of the total return performance of the Dow Jones Global ex-U.S. Select Real Estate Securities Index (the Index), an equity index based upon the global (ex-US) real estate market. The Index is a float adjusted market capitalization index designed to measure the performance of publicly traded real estate securities in developed and emerging countries excluding the United States. The Fund's investment manager is SSgA Funds Management, Inc."
+  },
+  "NLY": {
+    "id": "NLY",
+    "name": "Annaly Capital Management, Inc.  ",
+    "desc": "Annaly Capital Management, Inc. (Annaly) owns, manage, and finance a portfolio of real estate related investments, including mortgage pass-through certificates, collateralized mortgage obligations (CMOs), Agency callable debentures, and other securities representing interests in or obligations backed by pools of mortgage loans. The Company's wholly owned subsidiaries offer diversified real estate, asset management and other financial services. The Company's subsidiary, RCap Securities, Inc. (RCap), operates as a broker-dealer. The Company also invests in Agency debentures, which consist of debentures issued by the Federal Home Loan Bank (FHLB), Freddie Mac and Fannie Mae. In August 2012, the Company liquidated FIDAC FSI LLC. In December 2012, the Company sold FIDAC Europe Limited. As of December 31, 2012, all of the mortgage-backed securities, which it has acquired, have been backed by single-family residential mortgage loans."
+  },
+  "SPG": {
+    "id": "SPG",
+    "name": "Simon Property Group Inc  ",
+    "desc": "Simon Property Group, Inc.( Simon Property), is a self-administered and self-managed real estate investment trust (REIT). Simon Property Group, L.P.( Operating Partnership), is the Company's majority-owned partnership subsidiary that owns all of its real estate properties and other assets. The Company owns, develops and manages retail real estate properties, which consist primarily of malls, Premium Outlets, The Mills, and community/lifestyle centers. On January 9, 2012, it sold its interest in Gallerie Commerciali Italia, S.p.A. In June 2012, the Company acquired 50% of Silver Sands Factory Stores. In December 2012, the Company acquired Paragon Outlets Grand Prairie in Grand Prairie, Texas and Paragon Outlets Livermore Valley in Livermore, California. Effective January 31, 2014, Simon Property Group Inc acquired a 50% interest in Arizona Mills. In May 2014, Simon Property Group Inc announced the separation of Washington Prime Group Inc."
+  },
+  "PSA": {
+    "id": "PSA",
+    "name": "Public Storage  ",
+    "desc": "Public Storage (the Trust) is a real estate investment trust (REIT). As of December 31, 2013, the Trust's principal business activities included: Domestic Self-Storage, European Self-Storage and Commercial. The Trust acquires, develops, owns, and operates self-storage facilities, which offer storage spaces for lease, on a month-to-month basis, for personal and business use. It is an owner and operator of self-storage facilities in the United States. It has direct and indirect equity interests in 2,200 self-storage facilities (141 million net rentable square feet of space) located in 38 states within the United States operating under the Public Storage brand name. The Trust has a 49% equity interest in Shurgard Europe, with an institutional investor owning the remaining 51% interest. It has a 42% equity interest in PS Business Parks, Inc. (PSB), which owns and operates 28.3 million net rentable square feet of commercial space."
+  },
+  "CLI": {
+    "id": "CLI",
+    "name": "Mack Cali Realty Corp  ",
+    "desc": "Mack-Cali Realty Corporation is a self-administered and self-managed real estate investment trust (REIT), which owns and operates a real estate portfolios consisted of Class A office and office/flex properties located in the Northeast. The Company performs all commercial real estate leasing, management, acquisition, development and construction services on an in-house basis. In February 2012, the Company along with Winthrop Realty Trust formed a joint venture that acquired a senior mezzanine loan position of a 1.7 million-square-foot class A portfolio in Stamford, Conn. In April 2014, the Company announced that it has sold its commercial office property located at 22 Sylvan Way, in Mack-Cali Business Campus. In June 2014, the Company sold its commercial office property located at 400 Rella Boulevard in Montebello. In July 2014, Keystone Property Group acquired 17-17 Route 208 North in Fair Lawn, N.J. from the Company."
+  },
+  "PCLIX": {
+    "id": "PCLIX",
+    "name": "PIMCO CommoditiesPLUS' Strategy Fund Institutional Class",
+    "desc": ""
+  }
+}
