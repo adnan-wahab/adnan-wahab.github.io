@@ -1,0 +1,14 @@
+{
+  "name": "ddc06ed79c678e27",
+  "main": "ddc06ed79c678e27@1585.js",
+  "version": "1585.0.0",
+  "homepage": "https://observablehq.com/d/ddc06ed79c678e27",
+  "author": {
+    "name": "adnan wahab",
+    "url": "https://observablehq.com/@adnan-wahab"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
