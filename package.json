@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "reset": "npx tailwindcss-cli@latest build --no-autoprefixer -o tailwind.css",
+    "build": "npx tailwindcss-cli@latest build ./tailwind.css -o ./dist.css",
+    "production": "NODE_ENV=production npx tailwindcss-cli@latest build ./tailwind.css --no-autoprefixer -o ./dist.css"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.2.4",
+    "tailwindcss": "^2.0.2"
+  }
+}
