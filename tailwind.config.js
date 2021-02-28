@@ -2,7 +2,7 @@ module.exports = {
   purge: {
     enabled: true,
 
-    content: ['./adnan.html'],
+    content: ['./index.html'],
 
   },
   darkMode: false, // or 'media' or 'class'
