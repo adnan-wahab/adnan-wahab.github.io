@@ -1,10 +1,12 @@
 <a href="/" >Back to home page </a>
-<h3>Lidar Annotation Tool</h3>
+<h3>Lidar Annotation Tool(2017)</h3>
 <p>
 This is an anotation tool i created for Samasource to create jobs for people living in uganda
 to label objects in 4D point clouds to improve sensor fusion for neural networks on self driving vehicles. 
 
 Because the users were fairly new to using computers, the design had to be very easy to use. 
+
+To render temporal pointclouds efficently, I hacked the THREE/potree source code to progressively update point positions for each frame.
 
 It used WebGL, angular.js and integrated with a pre-existing rails CMS. 
 
