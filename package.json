@@ -1,12 +1,20 @@
 {
+  "name": "adnan-homepage",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "reset": "npx tailwindcss-cli@latest build --no-autoprefixer -o tailwind.css",
-    "build": "npx tailwindcss-cli@latest build ./tailwind.css -o ./dist.css",
-    "production": "NODE_ENV=production npx tailwindcss-cli@latest build ./tailwind.css --no-autoprefixer -o ./dist.css"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "dependencies": {
-    "autoprefixer": "^10.2.4",
-    "postcss": "^8.2.4",
-    "tailwindcss": "^2.0.2"
+    "next": "10.1.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.9",
+    "tailwindcss": "^2.0.4"
   }
 }
