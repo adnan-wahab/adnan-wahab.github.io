@@ -51,21 +51,21 @@ export default function Home() {
     </p>
 
     <p> 
-        <a href="/lidar" className="hover:underline">
+        <a href="http://point-cloud-adnan.surge.sh" className="hover:underline">
           Lidar PointCloud Annotation Tool Developed for Samasource
           <img className="object-cover h-48" src="https://i.ytimg.com/vi/hvrE5RL5nrQ/maxresdefault.jpg" />
       </a>
     </p>
 
     <p> 
-       <a href="http://adnanwahab.com/regl-network-graph/docs/" className="hover:underline">
+       <a href="http://adnan-graph-viz.surge.sh" className="hover:underline">
         Webgl Network Graph Visualization Library
         <img className="object-cover h-48" src="https://www.johndcook.com/color_graph.png" />
         </a>
     </p>
 
     <p>
-        <a href="/light" className="hover:underline">
+        <a href="http://adnan-pbr.surge.sh" className="hover:underline">
           Primer on Physically Based Rendering
           <img className="object-cover h-48" src="/media/light.jpg" />
           </a>
