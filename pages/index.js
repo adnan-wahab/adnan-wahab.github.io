@@ -51,7 +51,7 @@ export default function Home() {
     </p>
 
     <p> 
-        <a href="/lidar.html" className="hover:underline">
+        <a href="/lidar" className="hover:underline">
           Lidar PointCloud Annotation Tool Developed for Samasource
           <img className="object-cover h-48" src="https://i.ytimg.com/vi/hvrE5RL5nrQ/maxresdefault.jpg" />
       </a>
