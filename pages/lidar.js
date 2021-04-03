@@ -29,7 +29,7 @@ To render temporal pointclouds efficently, I hacked the THREE/potree source code
 
 It used WebGL, angular.js and integrated with a pre-existing rails CMS. 
 
-<a href="http://adnanwahab.com/lidar-point-cloud-labeler/" >Click this link to view an early prototype</a>
+<a href="http://point-cloud-adnan.surge.sh" >Click this link to view an early prototype</a>
 </p>
 
 <video src="/media/lidar2.mp4" controls ></video>
