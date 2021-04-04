@@ -19,7 +19,7 @@ export default function Home() {
       <section className="text-gray-800 flex flex-col items-center space-y-3">
         <div className={styles.a}>
          <div className={styles.b}>
-           <img className={styles.c} width="130px" height="157"alt="Manu Forti" src="/adnan.png" decoding="async"  />
+           <img className={styles.c} width="130px" height="157"alt="Manu Forti" src="/adnan.jpg" decoding="async"  />
          </div>
          <div className="text-center sm:max-w-44 space-y-1">
            <h1 className="uppercase font-bold text-black">Adnan Wahab</h1>
