@@ -58,7 +58,7 @@ export default function Home() {
     <p> 
        <a href="http://adnan-graph-viz.surge.sh" className="hover:underline">
         Webgl Network Graph Visualization Library
-        <img className="object-cover h-48" src="https://www.johndcook.com/color_graph.png" />
+        <img className="object-cover h-48" src="/graph.png" />
         </a>
     </p>
 
