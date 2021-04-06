@@ -69,7 +69,7 @@ console.log("aaaa")
 
 export default (req, res) => {
   console.log(req.headers["x-vercel-id"])
-  console.log(req.headers["x-vercel-signature"])
+  console.log(req.headers)
   if (req.method === "POST") {
   }
 
