@@ -1,7 +1,9 @@
-import '../styles/globals.css'
-import 'tailwindcss/tailwind.css'
+/** @format */
+
+import "../styles/globals.css"
 
 function MyApp({ Component, pageProps }) {
+  console.log("wtf")
   return <Component {...pageProps} />
 }
 
