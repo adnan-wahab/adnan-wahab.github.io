@@ -5,7 +5,7 @@ import Head from "next/head"
 
 import "tailwindcss/tailwind.css"
 
-export default function Home(titites) {
+export default function Dashboard(titites) {
   return (
     <div className={styles.container}>
       <Head>
